@@ -1,0 +1,2485 @@
+@prefix mo: <http://purl.org/ontology/mo/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dcat: <http://www.w3.org/ns/dcat#> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+<ttp://jidc.io/music/0> a mo:Record;
+dct:identifier "8545267";
+mo:artist "Melanie De Biasio";
+dct:title "Blackened Cities";
+dct:medium "12\", S/Sided, EP";
+mo:release "2016";
+dct:dateSubmitted "2025-01-03 09:31:19" .
+<ttp://jidc.io/music/1> a mo:Record;
+dct:identifier "3964034";
+mo:artist "Mogwai";
+dct:title "Mr. Beast";
+dct:medium "LP + LP, S/Sided, Etch + Album, RE, RP";
+mo:release "2012";
+dct:dateSubmitted "2021-02-10 04:04:18" .
+<ttp://jidc.io/music/2> a mo:Record;
+dct:identifier "17680633";
+mo:artist "Pallbearer";
+dct:title "Sorrow And Extinction";
+dct:medium "2xLP, Album, RP";
+mo:release "2020";
+dct:dateSubmitted "2021-08-19 06:27:07" .
+<ttp://jidc.io/music/3> a mo:Record;
+dct:identifier "17252260";
+mo:artist "Big Thief";
+dct:title "U.F.O.F.";
+dct:medium "LP, Album";
+mo:release "2020";
+dct:dateSubmitted "2022-02-17 09:55:06" .
+<ttp://jidc.io/music/4> a mo:Record;
+dct:identifier "14431809";
+mo:artist "Big Thief";
+dct:title "Two Hands";
+dct:medium "LP, Album";
+mo:release "2019";
+dct:dateSubmitted "2021-02-09 15:52:20" .
+<ttp://jidc.io/music/5> a mo:Record;
+dct:identifier "2660809";
+mo:artist "Pixies";
+dct:title "Best Of Pixies (Wave Of Mutilation)";
+dct:medium "2xLP, Comp, Ora";
+mo:release "2011";
+dct:dateSubmitted "2021-02-09 16:00:09" .
+<ttp://jidc.io/music/6> a mo:Record;
+dct:identifier "16236971";
+mo:artist "Pixies";
+dct:title "Doolittle";
+dct:medium "LP, Album, RE, 180";
+mo:release "2019";
+dct:dateSubmitted "2022-08-06 08:33:09" .
+<ttp://jidc.io/music/7> a mo:Record;
+dct:identifier "2942482";
+mo:artist "Bon Iver";
+dct:title "Bon Iver, Bon Iver";
+dct:medium "LP, Album, Gat";
+mo:release "2011";
+dct:dateSubmitted "2021-02-09 15:48:49" .
+<ttp://jidc.io/music/8> a mo:Record;
+dct:identifier "16265839";
+mo:artist "Philemon (4)";
+dct:title "Hourglass";
+dct:medium "12\", EP";
+mo:release "2020";
+dct:dateSubmitted "2023-10-15 02:18:52" .
+<ttp://jidc.io/music/9> a mo:Record;
+dct:identifier "10619669";
+mo:artist "Joe Jackson";
+dct:title "Body And Soul";
+dct:medium "LP, Album, RE";
+mo:release "0";
+dct:dateSubmitted "2021-02-10 04:59:46" .
+<ttp://jidc.io/music/10> a mo:Record;
+dct:identifier "6625464";
+mo:artist "Carpenters";
+dct:title "Now & Then";
+dct:medium "LP, Album, Tri";
+mo:release "1973";
+dct:dateSubmitted "2021-02-10 04:20:16" .
+<ttp://jidc.io/music/11> a mo:Record;
+dct:identifier "13447541";
+mo:artist "Raketkanon";
+dct:title "RKTKN #3";
+dct:medium "LP, Album, Ltd, Cle";
+mo:release "2019";
+dct:dateSubmitted "2021-02-10 01:08:38" .
+<ttp://jidc.io/music/12> a mo:Record;
+dct:identifier "9204918";
+mo:artist "Fall Of Efrafa";
+dct:title "Elil";
+dct:medium "LP, Gre + LP, S/Sided, Etch, Gre + Album, Ltd, RP";
+mo:release "2016";
+dct:dateSubmitted "2024-01-11 03:29:52" .
+<ttp://jidc.io/music/13> a mo:Record;
+dct:identifier "2836508";
+mo:artist "Light Bearer";
+dct:title "Lapsus";
+dct:medium "2xLP, Album";
+mo:release "2011";
+dct:dateSubmitted "2025-07-30 02:08:40" .
+<ttp://jidc.io/music/14> a mo:Record;
+dct:identifier "9189539";
+mo:artist "Steak Number Eight";
+dct:title "The Hutch";
+dct:medium "2xLP, Album, Ltd, RE";
+mo:release "2016";
+dct:dateSubmitted "2021-02-10 01:10:25" .
+<ttp://jidc.io/music/15> a mo:Record;
+dct:identifier "9189377";
+mo:artist "Steak Number Eight";
+dct:title "Kosmokoma";
+dct:medium "2xLP, Album, Gat";
+mo:release "2016";
+dct:dateSubmitted "2021-02-10 01:09:19" .
+<ttp://jidc.io/music/16> dct:title "The Book Of Traps And Lessons";
+dct:medium "LP, Album";
+a mo:Record;
+dct:identifier "13759158";
+mo:artist "Kate Tempest";
+mo:release "2019";
+dct:dateSubmitted "2021-02-09 16:45:53" .
+<ttp://jidc.io/music/17> a mo:Record;
+dct:identifier "22794803";
+mo:artist "Kae Tempest";
+dct:title "The Line Is A Curve";
+dct:medium "LP, Album, Ltd, Ora";
+mo:release "2022";
+dct:dateSubmitted "2022-04-09 09:25:12" .
+<ttp://jidc.io/music/18> a mo:Record;
+dct:identifier "7456451";
+mo:artist "Vaadat Charigim";
+dct:title "Sinking As A Stone";
+dct:medium "LP, Album";
+mo:release "2015";
+dct:dateSubmitted "2021-02-10 02:24:02" .
+<ttp://jidc.io/music/19> a mo:Record;
+dct:identifier "8013764";
+mo:artist "Deafheaven";
+dct:title "New Bermuda";
+dct:medium "2xLP, Album, Ltd, Whi";
+mo:release "2015";
+dct:dateSubmitted "2021-02-10 01:00:41" .
+<ttp://jidc.io/music/20> a mo:Record;
+dct:identifier "12252564";
+mo:artist "Deafheaven";
+dct:title "Ordinary Corrupt Human Love";
+dct:medium "2xLP, Album, Yel";
+mo:release "2018";
+dct:dateSubmitted "2021-02-10 01:04:15" .
+<ttp://jidc.io/music/21> a mo:Record;
+dct:identifier "18376492";
+mo:artist "Alfa Mist";
+dct:title "Bring Backs";
+dct:medium "LP, Album, Ltd, Pur";
+mo:release "2021";
+dct:dateSubmitted "2021-04-23 02:42:21" .
+<ttp://jidc.io/music/22> a mo:Record;
+dct:identifier "14183308";
+mo:artist "The Beatles";
+dct:title "Abbey Road";
+dct:medium "LP, Album, RE + 2xLP + Box, Ltd, S/Edition, Ann";
+mo:release "2019";
+dct:dateSubmitted "2021-02-09 16:08:50" .
+<ttp://jidc.io/music/23> a mo:Record;
+dct:identifier "12770560";
+mo:artist "The Beatles";
+dct:title "The Beatles";
+dct:medium "2xLP, Album, RE, RM,  ½ ";
+mo:release "2018";
+dct:dateSubmitted "2021-02-09 16:07:39" .
+<ttp://jidc.io/music/24> a mo:Record;
+dct:identifier "747504";
+mo:artist "Eagles";
+dct:title "Hotel California";
+dct:medium "LP, Album, Pfa";
+mo:release "1976";
+dct:dateSubmitted "2021-02-10 04:54:30" .
+<ttp://jidc.io/music/25> a mo:Record;
+dct:identifier "8260657";
+mo:artist "Lin-Manuel Miranda";
+dct:title "Hamilton: An American Musical (Original Broadway Cast Recording)";
+dct:medium "4xLP + Box, Album";
+mo:release "2016";
+dct:dateSubmitted "2021-02-09 17:09:54" .
+<ttp://jidc.io/music/26> a mo:Record;
+dct:identifier "1388359";
+mo:artist "Chic";
+dct:title "Believer";
+dct:medium "LP, Album";
+mo:release "1983";
+dct:dateSubmitted "2021-02-09 16:17:01" .
+<ttp://jidc.io/music/27> a mo:Record;
+dct:identifier "7347888";
+mo:artist "AC/DC";
+dct:title "If You Want Blood You've Got It";
+dct:medium "LP, Album, Pre";
+mo:release "1978";
+dct:dateSubmitted "2021-02-09 17:11:57" .
+<ttp://jidc.io/music/28> a mo:Record;
+dct:identifier "772367";
+mo:artist "AC/DC";
+dct:title "Back In Black";
+dct:medium "LP, Album";
+mo:release "1980";
+dct:dateSubmitted "2021-02-09 17:11:29" .
+<ttp://jidc.io/music/29> a mo:Record;
+dct:identifier "6536984";
+mo:artist "John Coltrane";
+dct:title "Giant Steps";
+dct:medium "LP, Album, RE";
+mo:release "2014";
+dct:dateSubmitted "2021-07-12 02:32:21" .
+<ttp://jidc.io/music/30> a mo:Record;
+dct:identifier "12730822";
+mo:artist "Architects (2)";
+dct:title "Daybreaker";
+dct:medium "LP, Album, RE, Cle";
+mo:release "2018";
+dct:dateSubmitted "2021-02-27 11:15:57" .
+<ttp://jidc.io/music/31> a mo:Record;
+dct:identifier "7401027";
+mo:artist "Beach House";
+dct:title "Depression Cherry ";
+dct:medium "LP, Album, Vel + CD, Album";
+mo:release "2015";
+dct:dateSubmitted "2021-02-10 02:24:57" .
+<ttp://jidc.io/music/32> a mo:Record;
+dct:identifier "15208381";
+mo:artist "El Michels Affair";
+dct:title "Adult Themes";
+dct:medium "LP, Album";
+mo:release "2020";
+dct:dateSubmitted "2022-11-18 04:22:26" .
+<ttp://jidc.io/music/33> a mo:Record;
+dct:identifier "13393380";
+mo:artist "American Football";
+dct:title "American Football";
+dct:medium "LP, Album";
+mo:release "2019";
+dct:dateSubmitted "2021-02-10 02:19:31" .
+<ttp://jidc.io/music/34> a mo:Record;
+dct:identifier "4078306";
+mo:artist "Eric Clapton";
+dct:title "Five Long Years";
+dct:medium "LP, Comp";
+mo:release "1988";
+dct:dateSubmitted "2021-02-10 05:06:57" .
+<ttp://jidc.io/music/35> a mo:Record;
+dct:identifier "15663638";
+mo:artist "Kamaal Williams";
+dct:title "Wu Hen";
+dct:medium "LP, Album, Ltd, Red";
+mo:release "2020";
+dct:dateSubmitted "2021-02-09 16:29:57" .
+<ttp://jidc.io/music/36> a mo:Record;
+dct:identifier "13545180";
+mo:artist "Metallica";
+dct:title "Ride The Lightning";
+dct:medium "LP, Album, RE, RM";
+mo:release "2016";
+dct:dateSubmitted "2021-02-10 01:57:56" .
+<ttp://jidc.io/music/37> a mo:Record;
+dct:identifier "15216362";
+mo:artist "Tom Misch & Yussef Dayes";
+dct:title "What Kinda Music";
+dct:medium "2xLP, Album, 180";
+mo:release "2020";
+dct:dateSubmitted "2021-02-09 16:29:04" .
+<ttp://jidc.io/music/38> a mo:Record;
+dct:identifier "5612513";
+mo:artist "John Coltrane";
+dct:title "Blue Train";
+dct:medium "LP, Album, RE, RM, 180";
+mo:release "2014";
+dct:dateSubmitted "2021-02-09 16:24:53" .
+<ttp://jidc.io/music/39> a mo:Record;
+dct:identifier "13611013";
+mo:artist "Herbie Hancock";
+dct:title "Takin' Off";
+dct:medium "LP, Album, RE, 180";
+mo:release "2019";
+dct:dateSubmitted "2021-02-09 16:18:49" .
+<ttp://jidc.io/music/40> dct:title "Moderat";
+dct:medium "LP, Album";
+a mo:Record;
+dct:identifier "1786820";
+mo:artist "Moderat";
+mo:release "2009";
+dct:dateSubmitted "2022-02-17 09:49:00" .
+<ttp://jidc.io/music/41> a mo:Record;
+dct:identifier "7750876";
+mo:artist "Thundercat";
+dct:title "The Beyond / Where The Giants Roam";
+dct:medium "12\", MiniAlbum, Red";
+mo:release "2015";
+dct:dateSubmitted "2021-02-09 16:33:18" .
+<ttp://jidc.io/music/42> a mo:Record;
+dct:identifier "13388165";
+mo:artist "Have Heart";
+dct:title "The Things We Carry";
+dct:medium "LP, Album, Ltd, RP, Cle";
+mo:release "2018";
+dct:dateSubmitted "2021-02-27 11:20:05" .
+<ttp://jidc.io/music/43> a mo:Record;
+dct:identifier "9656753";
+mo:artist "Have Heart";
+dct:title "Songs To Scream At The Sun";
+dct:medium "LP, Album, RP, Cok";
+mo:release "2016";
+dct:dateSubmitted "2021-02-10 02:10:12" .
+<ttp://jidc.io/music/44> a mo:Record;
+dct:identifier "11701503";
+mo:artist "Yussef Kamaal";
+dct:title "Black Focus";
+dct:medium "LP, Album, RP";
+mo:release "2017";
+dct:dateSubmitted "2021-07-12 02:29:04" .
+<ttp://jidc.io/music/45> dct:identifier "2118040";
+a mo:Record;
+mo:artist "Steve Miller Band";
+dct:title "Abracadabra";
+dct:medium "LP, Album";
+mo:release "1982";
+dct:dateSubmitted "2021-02-10 05:02:22" .
+<ttp://jidc.io/music/46> a mo:Record;
+dct:identifier "419765";
+mo:artist "Megadeth";
+dct:title "Rust In Peace";
+dct:medium "LP, Album";
+mo:release "1990";
+dct:dateSubmitted "2021-02-10 01:56:26" .
+<ttp://jidc.io/music/47> a mo:Record;
+dct:identifier "8057050";
+mo:artist "Frank Sinatra";
+dct:title "Songs For Swingin' Lovers!";
+dct:medium "LP, Album, Mono, RE, RM, 180";
+mo:release "2016";
+dct:dateSubmitted "2021-02-09 16:20:40" .
+<ttp://jidc.io/music/48> a mo:Record;
+dct:identifier "8606174";
+mo:artist "Mac DeMarco";
+dct:title "Salad Days";
+dct:medium "LP, Album, RP";
+mo:release "2015";
+dct:dateSubmitted "2021-02-09 15:56:23" .
+<ttp://jidc.io/music/49> a mo:Record;
+dct:identifier "7837619";
+mo:artist "Meco Monardo";
+dct:title "Music Inspired By Star Wars And Other Galactic Funk";
+dct:medium "LP, Album, RE";
+mo:release "2015";
+dct:dateSubmitted "2021-02-09 16:13:52" .
+<ttp://jidc.io/music/50> dct:title "Live/1975-85";
+dct:medium "5xLP, Album + Box";
+a mo:Record;
+dct:identifier "947430";
+mo:artist "Bruce Springsteen & The E-Street Band";
+mo:release "1986";
+dct:dateSubmitted "2021-02-09 17:10:29" .
+<ttp://jidc.io/music/51> a mo:Record;
+dct:identifier "3308692";
+mo:artist "Santana";
+dct:title "Moonflower";
+dct:medium "2xLP, Album";
+mo:release "1977";
+dct:dateSubmitted "2021-02-10 05:09:45" .
+<ttp://jidc.io/music/52> dct:medium "LP, Album, Ltd, Red";
+a mo:Record;
+dct:identifier "11905935";
+mo:artist "Wiegedood";
+dct:title "De Doden Hebben Het Goed III";
+mo:release "2018";
+dct:dateSubmitted "2021-02-10 01:10:52" .
+<ttp://jidc.io/music/53> a mo:Record;
+dct:identifier "12016722";
+mo:artist "At The Gates";
+dct:title "To Drink From The Night Itself";
+dct:medium "LP, Album, Ltd, Cle";
+mo:release "2018";
+dct:dateSubmitted "2021-02-27 11:33:18" .
+<ttp://jidc.io/music/54> dct:identifier "21698602";
+mo:artist "Wiegedood";
+a mo:Record;
+dct:title "There's Always Blood At The End Of The Road";
+dct:medium "LP, 180 + LP, S/Sided, Etch, 180 + Album, Ltd";
+mo:release "2022";
+dct:dateSubmitted "2022-07-09 04:28:52" .
+<ttp://jidc.io/music/55> dct:identifier "11688334";
+a mo:Record;
+mo:artist "Blondie";
+dct:title "Parallel Lines";
+dct:medium "LP, Album";
+mo:release "1978";
+dct:dateSubmitted "2021-02-10 03:56:32" .
+<ttp://jidc.io/music/56> a mo:Record;
+dct:identifier "7009697";
+mo:artist "Leo Sayer";
+dct:title "Just A Boy";
+dct:medium "LP, Album";
+mo:release "1974";
+dct:dateSubmitted "2021-02-10 05:00:55" .
+<ttp://jidc.io/music/57> a mo:Record;
+dct:identifier "22647875";
+mo:artist "Grivo";
+dct:title "Omit";
+dct:medium "LP, Album";
+mo:release "2022";
+dct:dateSubmitted "2023-11-15 02:24:23" .
+<ttp://jidc.io/music/58> a mo:Record;
+dct:identifier "2235245";
+mo:artist "Caribou";
+dct:title "Swim";
+dct:medium "2xLP, Album, 180";
+mo:release "2010";
+dct:dateSubmitted "2021-02-09 16:37:17" .
+<ttp://jidc.io/music/59> a mo:Record;
+dct:identifier "27124674";
+mo:artist "Fleshwater";
+dct:title "We’re Not Here To Be Loved";
+dct:medium "LP, Album, RP, Bla";
+mo:release "2023";
+dct:dateSubmitted "2023-10-27 07:55:23" .
+<ttp://jidc.io/music/60> a mo:Record;
+dct:identifier "15988186";
+mo:artist "END (15)";
+dct:title "Splinters From An Ever-Changing Face";
+dct:medium "LP, Album, Ltd, RP, Bla";
+mo:release "2020";
+dct:dateSubmitted "2021-02-27 11:47:11" .
+<ttp://jidc.io/music/61> mo:artist "Vein (14)";
+a mo:Record;
+dct:medium "LP, RP, Cle";
+dct:title "Errorzone";
+dct:identifier "13704949";
+mo:release "2019";
+dct:dateSubmitted "2021-02-27 11:09:06" .
+<ttp://jidc.io/music/62> a mo:Record;
+dct:identifier "10676369";
+mo:artist "Nas";
+dct:title "Illmatic";
+dct:medium "LP, Album, RE";
+mo:release "2017";
+dct:dateSubmitted "2021-02-09 16:47:17" .
+<ttp://jidc.io/music/63> dct:title "Scum Fuck Flower Boy";
+a mo:Record;
+dct:identifier "11316793";
+mo:artist "Tyler, The Creator";
+dct:medium "2x12\", Album, Gat";
+mo:release "2017";
+dct:dateSubmitted "2021-02-11 06:31:00" .
+<ttp://jidc.io/music/64> a mo:Record;
+dct:identifier "26337314";
+mo:artist "Harry Styles";
+dct:title "Harry’s House";
+dct:medium "LP, Album";
+mo:release "2022";
+dct:dateSubmitted "2023-07-25 05:52:23" .
+<ttp://jidc.io/music/65> a mo:Record;
+dct:identifier "14210644";
+mo:artist "Tyler, The Creator";
+dct:title "Igor";
+dct:medium "LP, Album, Gat";
+mo:release "2019";
+dct:dateSubmitted "2021-02-09 16:47:41" .
+<ttp://jidc.io/music/66> a mo:Record;
+dct:identifier "23210261";
+mo:artist "Rosalía (3)";
+dct:title "Motomami";
+dct:medium "LP, Album, Red";
+mo:release "2022";
+dct:dateSubmitted "2023-09-30 03:12:45" .
+<ttp://jidc.io/music/67> a mo:Record;
+dct:identifier "10676630";
+mo:artist "Miles Davis";
+dct:title "Bitches Brew";
+dct:medium "2xLP, Album, RE, 180";
+mo:release "2016";
+dct:dateSubmitted "2021-02-09 17:08:42" .
+<ttp://jidc.io/music/68> dct:identifier "6884018";
+a mo:Record;
+mo:artist "AmenRa";
+dct:title "Live";
+dct:medium "2xLP, Album, Ltd, Obi";
+mo:release "2015";
+dct:dateSubmitted "2021-02-09 17:14:33" .
+<ttp://jidc.io/music/69> a mo:Record;
+dct:identifier "12404453";
+mo:artist "Godspeed You Black Emperor!";
+dct:title "Lift Your Skinny Fists Like Antennas To Heaven";
+dct:medium "2xLP, Album, RE, 180";
+mo:release "2018";
+dct:dateSubmitted "2021-02-10 04:05:38" .
+<ttp://jidc.io/music/70> a mo:Record;
+dct:identifier "9309312";
+mo:artist "My Bloody Valentine";
+dct:title "Loveless";
+dct:medium "LP, Album, RE, Unofficial, Whi";
+mo:release "2013";
+dct:dateSubmitted "2021-02-10 02:22:41" .
+<ttp://jidc.io/music/71> a mo:Record;
+dct:identifier "9664068";
+mo:artist "Drab Majesty";
+dct:title "The Demonstration";
+dct:medium "LP, Album";
+mo:release "2017";
+dct:dateSubmitted "2021-02-09 16:11:15" .
+<ttp://jidc.io/music/72> a mo:Record;
+dct:identifier "715908";
+mo:artist "Kool & The Gang";
+dct:title "The Very Best Of Kool & The Gang - Let's Go Dancing";
+dct:medium "LP, Comp";
+mo:release "1984";
+dct:dateSubmitted "2021-02-09 16:13:33" .
+<ttp://jidc.io/music/73> a mo:Record;
+dct:identifier "10206225";
+mo:artist "Slowdive";
+dct:title "Slowdive";
+dct:medium "LP, Album";
+mo:release "2017";
+dct:dateSubmitted "2021-02-10 02:23:47" .
+<ttp://jidc.io/music/74> a mo:Record;
+dct:identifier "11315662";
+mo:artist "Shame (19)";
+dct:title "Songs Of Praise";
+dct:medium "LP, Album";
+mo:release "2018";
+dct:dateSubmitted "2021-02-10 03:57:55" .
+<ttp://jidc.io/music/75> a mo:Record;
+dct:identifier "15492389";
+mo:artist "Phoebe Bridgers";
+dct:title "Punisher";
+dct:medium "LP, Album";
+mo:release "2020";
+dct:dateSubmitted "2021-02-22 06:48:08" .
+<ttp://jidc.io/music/76> a mo:Record;
+dct:identifier "16939242";
+mo:artist "Shame (19)";
+dct:title "Drunk Tank Pink";
+dct:medium "LP, Album";
+mo:release "2021";
+dct:dateSubmitted "2021-02-10 03:58:36" .
+<ttp://jidc.io/music/77> a mo:Record;
+dct:identifier "4755491";
+mo:artist "Deafheaven";
+dct:title "Sunbather";
+dct:medium "12\", Pin + 12\", Yel + Album, RP";
+mo:release "2013";
+dct:dateSubmitted "2021-02-10 03:10:05" .
+<ttp://jidc.io/music/78> a mo:Record;
+dct:identifier "5699819";
+mo:artist "Oathbreaker";
+dct:title "Eros|Anteros";
+dct:medium "LP, Album, Bla";
+mo:release "2014";
+dct:dateSubmitted "2021-02-10 02:03:44" .
+<ttp://jidc.io/music/79> a mo:Record;
+dct:identifier "14195513";
+mo:artist "Touché Amoré";
+dct:title "Is Survived By";
+dct:medium "LP, RP, Ele";
+mo:release "2019";
+dct:dateSubmitted "2022-02-17 09:57:15" .
+<ttp://jidc.io/music/80> dct:title "Rheia";
+a mo:Record;
+dct:identifier "9113145";
+mo:artist "Oathbreaker";
+dct:medium "2xLP, Album, Ltd, Blu";
+mo:release "2016";
+dct:dateSubmitted "2021-02-10 02:04:13" .
+<ttp://jidc.io/music/81> a mo:Record;
+dct:identifier "12765885";
+mo:artist "Cult Leader";
+dct:title "A Patient Man";
+dct:medium "LP, Album";
+mo:release "2018";
+dct:dateSubmitted "2021-02-27 11:22:26" .
+<ttp://jidc.io/music/82> a mo:Record;
+dct:identifier "30766200";
+mo:artist "Frail Body";
+dct:title "Artificial Bouquet";
+dct:medium "LP, Album, Ltd, Mag";
+mo:release "2024";
+dct:dateSubmitted "2024-06-12 03:43:12" .
+<ttp://jidc.io/music/83> a mo:Record;
+dct:identifier "11077096";
+mo:artist "Converge";
+dct:title "The Dusk In Us ";
+dct:medium "LP, Album, Vio";
+mo:release "2017";
+dct:dateSubmitted "2021-02-10 02:01:54" .
+<ttp://jidc.io/music/84> a mo:Record;
+dct:identifier "28338325";
+mo:artist "Alain Goraguer";
+dct:title "La Planète Sauvage (Expanded Original Soundtrack)";
+dct:medium "2xLP, Album, Dlx, Ltd, RE, RM";
+mo:release "2023";
+dct:dateSubmitted "2023-12-18 02:37:51" .
+<ttp://jidc.io/music/85> a mo:Record;
+dct:identifier "24331466";
+mo:artist "Charlotte Adigéry & Bolis Pupul";
+dct:title "Topical Dancer";
+dct:medium "2xLP, Album, RP";
+mo:release "2022";
+dct:dateSubmitted "2023-07-25 05:50:18" .
+<ttp://jidc.io/music/86> a mo:Record;
+dct:identifier "552252";
+mo:artist "UB40";
+dct:title "Labour Of Love II";
+dct:medium "LP, Album";
+mo:release "1989";
+dct:dateSubmitted "2021-02-10 05:09:21" .
+<ttp://jidc.io/music/87> a mo:Record;
+dct:identifier "1005071";
+mo:artist "Edvard Grieg - Berliner Philharmoniker · Herbert von Karajan";
+dct:title "Peer Gynt-Suiten 1 & 2 • Sigurd Jorsalfar";
+dct:medium "LP, RP";
+mo:release "0";
+dct:dateSubmitted "2021-02-09 16:55:26" .
+<ttp://jidc.io/music/88> a mo:Record;
+dct:identifier "14095594";
+mo:artist "Hildur Guðnadóttir";
+dct:title "Chernobyl (Music From The HBO Miniseries)";
+dct:medium "LP, Album";
+mo:release "2019";
+dct:dateSubmitted "2022-02-17 09:50:13" .
+<ttp://jidc.io/music/89> a mo:Record;
+dct:identifier "10818207";
+mo:artist "Joep Beving";
+dct:title "Solipsism";
+dct:medium "LP, Album, Gat";
+mo:release "2017";
+dct:dateSubmitted "2021-02-09 16:51:38" .
+<ttp://jidc.io/music/90> a mo:Record;
+dct:identifier "10472829";
+mo:artist "LCD Soundsystem";
+dct:title "This Is Happening";
+dct:medium "2xLP, Album, RE";
+mo:release "2017";
+dct:dateSubmitted "2021-02-09 15:51:43" .
+<ttp://jidc.io/music/91> a mo:Record;
+dct:identifier "7800860";
+mo:artist "Sonic Youth";
+dct:title "Goo";
+dct:medium "LP, Album, RE, 180";
+mo:release "2015";
+dct:dateSubmitted "2021-02-09 17:09:13" .
+<ttp://jidc.io/music/92> a mo:Record;
+dct:identifier "20439871";
+mo:artist "Alexisonfire";
+dct:title "Alexisonfire";
+dct:medium "2xLP, Album, RP";
+mo:release "2021";
+dct:dateSubmitted "2023-10-27 07:52:30" .
+<ttp://jidc.io/music/93> a mo:Record;
+dct:identifier "23654213";
+mo:artist "Alexisonfire";
+dct:title "Otherness";
+dct:medium "2x12\", Album";
+mo:release "2022";
+dct:dateSubmitted "2022-08-11 13:55:15" .
+<ttp://jidc.io/music/94> a mo:Record;
+dct:identifier "15517109";
+mo:artist "Fugazi";
+dct:title "Fugazi";
+dct:medium "12\", EP, RE, RM";
+mo:release "2017";
+dct:dateSubmitted "2021-02-10 02:15:48" .
+<ttp://jidc.io/music/95> a mo:Record;
+dct:identifier "2477601";
+mo:artist "Fugazi";
+dct:title "Repeater";
+dct:medium "LP, Album, RE, RM";
+mo:release "2009";
+dct:dateSubmitted "2021-02-10 02:16:16" .
+<ttp://jidc.io/music/96> mo:artist "Arctic Monkeys";
+a mo:Record;
+dct:identifier "20529664";
+dct:title "Whatever People Say I Am, That's What I'm Not";
+dct:medium "LP, Album, RE, RP, MPO";
+mo:release "2021";
+dct:dateSubmitted "2024-12-15 04:58:10" .
+<ttp://jidc.io/music/97> a mo:Record;
+dct:identifier "10727416";
+mo:artist "Jon Hopkins";
+dct:title "Immunity";
+dct:medium "2xLP, Album, RE, 180";
+mo:release "2016";
+dct:dateSubmitted "2022-08-06 08:33:59" .
+<ttp://jidc.io/music/98> a mo:Record;
+dct:identifier "7665806";
+mo:artist "Eels";
+dct:title "Beautiful Freak";
+dct:medium "LP, Album, RE, 180";
+mo:release "2015";
+dct:dateSubmitted "2021-02-09 15:59:17" .
+<ttp://jidc.io/music/99> a mo:Record;
+dct:identifier "982812";
+mo:artist "Eric Clapton";
+dct:title "August";
+dct:medium "LP, Album, Gat";
+mo:release "1986";
+dct:dateSubmitted "2021-02-10 05:09:01" .
+<ttp://jidc.io/music/100> a mo:Record;
+dct:identifier "778307";
+mo:artist "Queen & David Bowie";
+dct:title "Under Pressure";
+dct:medium "7\", Single, Bla";
+mo:release "1981";
+dct:dateSubmitted "2021-02-10 05:10:04" .
+<ttp://jidc.io/music/101> dct:medium "LP, Album";
+a mo:Record;
+dct:identifier "6964645";
+mo:artist "Talk Talk";
+dct:title "It's My Life";
+mo:release "1984";
+dct:dateSubmitted "2021-02-10 05:02:42" .
+<ttp://jidc.io/music/102> a mo:Record;
+dct:identifier "3598343";
+mo:artist "Pyotr Ilyich Tchaikovsky, Wiener Symphoniker, John Lanchbery";
+dct:title "Tschaikowsky Der Schwanensee";
+dct:medium "LP";
+mo:release "1971";
+dct:dateSubmitted "2021-02-09 16:59:05" .
+<ttp://jidc.io/music/103> a mo:Record;
+dct:identifier "8971807";
+mo:artist "Have A Nice Life";
+dct:title "Deathconsciousness";
+dct:medium "2xLP, Album, RE";
+mo:release "2016";
+dct:dateSubmitted "2021-02-10 02:01:01" .
+<ttp://jidc.io/music/104> a mo:Record;
+dct:identifier "13533265";
+mo:artist "Stevie Ray Vaughan & Double Trouble";
+dct:title "Live Alive";
+dct:medium "2xLP, Album";
+mo:release "1986";
+dct:dateSubmitted "2021-02-10 05:07:25" .
+<ttp://jidc.io/music/105> a mo:Record;
+dct:identifier "4257095";
+mo:artist "Michael Jackson";
+dct:title "Thriller";
+dct:medium "LP, Album, RP, Gat";
+mo:release "0";
+dct:dateSubmitted "2021-02-09 17:24:34" .
+<ttp://jidc.io/music/106> a mo:Record;
+dct:identifier "15638113";
+mo:artist "Fiona Apple";
+dct:title "Fetch The Bolt Cutters";
+dct:medium "2xLP, Album, Ltd, Bro";
+mo:release "2020";
+dct:dateSubmitted "2021-02-09 15:53:03" .
+<ttp://jidc.io/music/107> a mo:Record;
+dct:identifier "7623757";
+mo:artist "Parkway Drive";
+dct:title "Killing With A Smile";
+dct:medium "LP, Album, RE, 180";
+mo:release "2015";
+dct:dateSubmitted "2021-02-27 11:18:41" .
+<ttp://jidc.io/music/108> a mo:Record;
+dct:identifier "7415588";
+mo:artist "Defeater";
+dct:title "Abandoned";
+dct:medium "LP, Album, Gre";
+mo:release "2015";
+dct:dateSubmitted "2021-03-22 01:42:00" .
+<ttp://jidc.io/music/109> a mo:Record;
+dct:identifier "9058419";
+mo:artist "Touché Amoré";
+dct:title "Stage Four";
+dct:medium "LP, Album";
+mo:release "2016";
+dct:dateSubmitted "2021-02-10 02:11:55" .
+<ttp://jidc.io/music/110> a mo:Record;
+dct:identifier "22488281";
+mo:artist "Refused";
+dct:title "The Shape Of Punk To Come (A Chimerical Bombination In 12 Bursts)";
+dct:medium "2xLP, Album, Ltd, RE, Red";
+mo:release "2022";
+dct:dateSubmitted "2022-05-14 08:02:34" .
+<ttp://jidc.io/music/111> dct:identifier "5746150";
+a mo:Record;
+mo:artist "Nils Frahm";
+dct:title "Spaces";
+dct:medium "2xLP, Album";
+mo:release "2014";
+dct:dateSubmitted "2021-02-09 16:48:36" .
+<ttp://jidc.io/music/112> a mo:Record;
+dct:identifier "12978029";
+mo:artist "Nils Frahm";
+dct:title "All Melody";
+dct:medium "2xLP, Album";
+mo:release "2018";
+dct:dateSubmitted "2021-02-09 16:49:15" .
+<ttp://jidc.io/music/113> a mo:Record;
+dct:identifier "16073462";
+mo:artist "Nils Frahm";
+dct:title "Empty";
+dct:medium "LP, Album";
+mo:release "2020";
+dct:dateSubmitted "2021-02-09 16:50:01" .
+<ttp://jidc.io/music/114> a mo:Record;
+dct:identifier "726344";
+mo:artist "Spinvis";
+dct:title "Spinvis";
+dct:medium "LP, Album";
+mo:release "2006";
+dct:dateSubmitted "2021-02-09 16:00:53" .
+<ttp://jidc.io/music/115> a mo:Record;
+mo:artist "Triggerfinger";
+dct:identifier "12850705";
+dct:title "What Grabs Ya?";
+dct:medium "LP, Album, Gat";
+mo:release "2008";
+dct:dateSubmitted "2021-02-10 04:21:56" .
+<ttp://jidc.io/music/116> a mo:Record;
+dct:identifier "11184880";
+mo:artist "Chaos Moon";
+dct:title "Eschaton Mémoire";
+dct:medium "LP, Album";
+mo:release "2017";
+dct:dateSubmitted "2021-02-10 01:11:44" .
+<ttp://jidc.io/music/117> a mo:Record;
+dct:identifier "8755807";
+mo:artist "Creedence Clearwater Revival Featuring John Fogerty";
+dct:title "Chronicle (The 20 Greatest Hits)";
+dct:medium "2xLP, Comp, Gat";
+mo:release "1976";
+dct:dateSubmitted "2021-02-10 04:57:12" .
+<ttp://jidc.io/music/118> a mo:Record;
+dct:identifier "8598320";
+mo:artist "Yung (4)";
+dct:title "A Youthful Dream";
+dct:medium "LP, Album";
+mo:release "2016";
+dct:dateSubmitted "2021-02-10 03:55:46" .
+<ttp://jidc.io/music/119> a mo:Record;
+dct:identifier "11314229";
+mo:artist "The Cure";
+dct:title "Disintegration";
+dct:medium "2xLP, Album, RE, RM, 180";
+mo:release "2016";
+dct:dateSubmitted "2021-02-09 16:10:26" .
+<ttp://jidc.io/music/120> a mo:Record;
+dct:identifier "16384035";
+mo:artist "Planning For Burial";
+dct:title "Below The House";
+dct:medium "LP, Album, RP, Blu";
+mo:release "2020";
+dct:dateSubmitted "2021-08-19 06:26:37" .
+<ttp://jidc.io/music/121> dct:title "Infest The Rats' Nest";
+dct:medium "LP, Album, Bla";
+a mo:Record;
+dct:identifier "13992352";
+mo:artist "King Gizzard And The Lizard Wizard";
+mo:release "2019";
+dct:dateSubmitted "2021-02-10 04:01:27" .
+<ttp://jidc.io/music/122> a mo:Record;
+dct:identifier "13319548";
+mo:artist "The Antlers";
+dct:title "Hospice";
+dct:medium "2xLP, Album, RE, RM, Whi";
+mo:release "2019";
+dct:dateSubmitted "2021-02-09 15:58:19" .
+<ttp://jidc.io/music/123> dct:title "Overlast";
+dct:medium "LP, Album";
+a mo:Record;
+dct:identifier "11743815";
+mo:artist "Stikstof (2)";
+mo:release "2018";
+dct:dateSubmitted "2021-02-09 16:46:29" .
+<ttp://jidc.io/music/124> a mo:Record;
+dct:identifier "16242486";
+mo:artist "Basement (4)";
+dct:title "Beside Myself";
+dct:medium "LP, Album, Yel";
+mo:release "2018";
+dct:dateSubmitted "2021-03-22 01:39:56" .
+<ttp://jidc.io/music/125> a mo:Record;
+dct:identifier "2575003";
+mo:artist "Joe Cocker";
+dct:title "The Very Best Of Joe Cocker";
+dct:medium "LP, Comp";
+mo:release "0";
+dct:dateSubmitted "2021-02-10 04:59:09" .
+<ttp://jidc.io/music/126> dct:title "Oh, Comely!";
+dct:medium "CD, Album";
+a mo:Record;
+dct:identifier "6043326";
+mo:artist "Campus (2)";
+mo:release "2010";
+dct:dateSubmitted "2023-10-03 03:36:17" .
+<ttp://jidc.io/music/127> a mo:Record;
+dct:identifier "7545132";
+mo:artist "Nirvana";
+dct:title "In Utero";
+dct:medium "LP, Album, RP, 180";
+mo:release "2015";
+dct:dateSubmitted "2021-02-10 03:59:39" .
+<ttp://jidc.io/music/128> a mo:Record;
+dct:identifier "12691251";
+mo:artist "Simon & Garfunkel";
+dct:title "The Concert In Central Park";
+dct:medium "2xLP, Album, Bla";
+mo:release "1982";
+dct:dateSubmitted "2021-02-10 04:52:36" .
+<ttp://jidc.io/music/129> a mo:Record;
+dct:identifier "11587485";
+mo:artist "dirk.";
+dct:title "album";
+dct:medium "LP, Album";
+mo:release "2018";
+dct:dateSubmitted "2021-02-10 04:00:01" .
+<ttp://jidc.io/music/130> a mo:Record;
+dct:identifier "13801274";
+mo:artist "C418";
+dct:title "Minecraft Volume Alpha";
+dct:medium "LP, Album, RE, RP, Gre";
+mo:release "0";
+dct:dateSubmitted "2023-07-25 05:52:03" .
+<ttp://jidc.io/music/131> a mo:Record;
+dct:identifier "9091766";
+mo:artist "Kowloon Walled City";
+dct:title "Grievances";
+dct:medium "LP, Album, RP, Cle";
+mo:release "2016";
+dct:dateSubmitted "2021-08-19 06:22:48" .
+<ttp://jidc.io/music/132> a mo:Record;
+dct:identifier "5746111";
+mo:artist "Sonic Youth";
+dct:title "Daydream Nation";
+dct:medium "2xLP, Album, RE, RM, RP";
+mo:release "2014";
+dct:dateSubmitted "2022-02-17 09:45:04" .
+<ttp://jidc.io/music/133> a mo:Record;
+dct:identifier "15262826";
+mo:artist "Miles Davis";
+dct:title "Kind Of Blue";
+dct:medium "LP, Album, RE";
+mo:release "2020";
+dct:dateSubmitted "2021-02-09 16:24:25" .
+<ttp://jidc.io/music/134> a mo:Record;
+dct:identifier "3835988";
+mo:artist "Johann Strauss Jr., Richard Strauss, Philharmonia Orchestra";
+dct:title "Strauss Music (Die Fledermaus)";
+dct:medium "LP, Mono";
+mo:release "1957";
+dct:dateSubmitted "2021-02-09 16:58:36" .
+<ttp://jidc.io/music/135> a mo:Record;
+dct:identifier "4645802";
+mo:artist "Light Bearer";
+dct:title "Silver Tongue";
+dct:medium "2xLP, Album, Ltd, 180";
+mo:release "2013";
+dct:dateSubmitted "2025-07-30 02:07:48" .
+<ttp://jidc.io/music/136> a mo:Record;
+dct:identifier "11303792";
+mo:artist "Wolfgang Amadeus Mozart, Sophie Karthäuser - Marie-Claude Chappuis, Maximilian Schmitt - Johannes Weisser, RIAS-Kammerchor, Freiburger Barockorchester, René Jacobs";
+dct:title "Requiem";
+dct:medium "LP, Album";
+mo:release "2017";
+dct:dateSubmitted "2021-02-09 16:52:43" .
+<ttp://jidc.io/music/137> a mo:Record;
+dct:identifier "768254";
+mo:artist "Pink Floyd";
+dct:title "Animals";
+dct:medium "LP, Album, Gat";
+mo:release "1977";
+dct:dateSubmitted "2021-02-10 05:05:59" .
+<ttp://jidc.io/music/138> a mo:Record;
+dct:identifier "9768270";
+mo:artist "Brutus (23)";
+dct:title "BURST";
+dct:medium "LP, Album, Ltd, Cle";
+mo:release "2017";
+dct:dateSubmitted "2021-02-10 02:19:53" .
+<ttp://jidc.io/music/139> a mo:Record;
+dct:identifier "13414457";
+mo:artist "Brutus (23)";
+dct:title "Nest";
+dct:medium "LP, Album, Ltd, Gre";
+mo:release "2019";
+dct:dateSubmitted "2021-02-10 02:20:31" .
+<ttp://jidc.io/music/140> a mo:Record;
+dct:identifier "8452534";
+mo:artist "King Gizzard And The Lizard Wizard";
+dct:title "Nonagon Infinity";
+dct:medium "LP, Album";
+mo:release "2016";
+dct:dateSubmitted "2021-02-10 04:00:24" .
+<ttp://jidc.io/music/141> dct:title "Murder Of The Universe";
+dct:medium "LP, Album";
+a mo:Record;
+dct:identifier "10467000";
+mo:artist "King Gizzard And The Lizard Wizard";
+mo:release "2017";
+dct:dateSubmitted "2021-02-10 04:00:45" .
+<ttp://jidc.io/music/142> a mo:Record;
+dct:identifier "10049088";
+mo:artist "Brutality Will Prevail";
+dct:title "In Dark Places";
+dct:medium "LP, Album, Rub";
+mo:release "2017";
+dct:dateSubmitted "2021-02-10 02:08:35" .
+<ttp://jidc.io/music/143> a mo:Record;
+dct:identifier "12809202";
+mo:artist "Portrayal Of Guilt";
+dct:title "Let Pain Be Your Guide";
+dct:medium "LP, Album, Ltd, Gla";
+mo:release "2018";
+dct:dateSubmitted "2021-02-10 02:05:23" .
+<ttp://jidc.io/music/144> dct:title "Crooks & Lovers";
+dct:medium "2x12\", Album";
+a mo:Record;
+dct:identifier "2358199";
+mo:artist "Mount Kimbie";
+mo:release "2010";
+dct:dateSubmitted "2021-02-09 16:45:12" .
+<ttp://jidc.io/music/145> a mo:Record;
+dct:identifier "28784176";
+mo:artist "The Guru Guru";
+dct:title "Make (Less) Babies";
+dct:medium "12\", Album, Ltd, Red";
+mo:release "2023";
+dct:dateSubmitted "2023-11-17 02:08:15" .
+<ttp://jidc.io/music/146> a mo:Record;
+dct:identifier "8716935";
+mo:artist "BadBadNotGood";
+dct:title "IV";
+dct:medium "2xLP, Album";
+mo:release "2016";
+dct:dateSubmitted "2021-02-09 16:28:41" .
+<ttp://jidc.io/music/147> a mo:Record;
+dct:identifier "5646929";
+mo:artist "BadBadNotGood";
+dct:title "III";
+dct:medium "2xLP, Album";
+mo:release "2014";
+dct:dateSubmitted "2021-02-09 16:27:29" .
+<ttp://jidc.io/music/148> dct:identifier "12707635";
+mo:artist "Daughters";
+a mo:Record;
+dct:title "You Won't Get What You Want";
+dct:medium "2xLP, Album, Cle";
+mo:release "2018";
+dct:dateSubmitted "2021-02-10 02:01:25" .
+<ttp://jidc.io/music/149> a mo:Record;
+dct:identifier "10889741";
+mo:artist "The Killers";
+dct:title "Wonderful Wonderful";
+dct:medium "LP, Album";
+mo:release "2017";
+dct:dateSubmitted "2021-02-10 04:14:24" .
+<ttp://jidc.io/music/150> a mo:Record;
+dct:identifier "12078970";
+mo:artist "Ben Howard (2)";
+dct:title "Noonday Dream";
+dct:medium "2xLP, Album, 180";
+mo:release "2018";
+dct:dateSubmitted "2021-02-09 16:13:05" .
+<ttp://jidc.io/music/151> dct:medium "LP, Album, Los";
+mo:artist "Steve Winwood";
+a mo:Record;
+dct:identifier "7119543";
+dct:title "Arc Of A Diver";
+mo:release "1980";
+dct:dateSubmitted "2021-02-10 05:10:40" .
+<ttp://jidc.io/music/152> a mo:Record;
+dct:identifier "8564231";
+mo:artist "The Killers";
+dct:title "Hot Fuss";
+dct:medium "LP, Album, RE, 180";
+mo:release "2016";
+dct:dateSubmitted "2021-02-15 01:16:50" .
+<ttp://jidc.io/music/153> a mo:Record;
+dct:identifier "21250141";
+mo:artist "Siem Reap";
+dct:title "Now What?";
+dct:medium "LP, Album, Cle";
+mo:release "2021";
+dct:dateSubmitted "2022-02-17 09:44:31" .
+<ttp://jidc.io/music/154> a mo:Record;
+dct:identifier "7047269";
+mo:artist "Chet Baker";
+dct:title "Chet Baker Sings";
+dct:medium "LP, Album, Mono, RE, RM, 180";
+mo:release "2015";
+dct:dateSubmitted "2021-02-09 16:19:56" .
+<ttp://jidc.io/music/155> a mo:Record;
+dct:identifier "1452680";
+mo:artist "Billy Ocean";
+dct:title "Suddenly";
+dct:medium "LP, Album";
+mo:release "1984";
+dct:dateSubmitted "2021-02-09 16:18:29" .
+<ttp://jidc.io/music/156> a mo:Record;
+dct:identifier "1008455";
+mo:artist "Editors";
+dct:title "An End Has A Start";
+dct:medium "LP, Album";
+mo:release "2007";
+dct:dateSubmitted "2021-02-10 04:08:50" .
+<ttp://jidc.io/music/157> dct:identifier "15939834";
+mo:artist "De Nooit Moede";
+dct:title "De Nooit Moede";
+a mo:Record;
+dct:medium "12\", EP";
+mo:release "2020";
+dct:dateSubmitted "2021-02-09 15:49:12" .
+<ttp://jidc.io/music/158> a mo:Record;
+dct:identifier "2950826";
+mo:artist "Carl Orff - Lucia Popp, Gerhard Unger, Raymond Wolansky, John Noble, New Philharmonia Orchestra And New Philharmonia Chorus, Wilhelm Pitz, Rafael Frühbeck De Burgos";
+dct:title "Carmina Burana, Cantiones Profanae";
+dct:medium "LP, Album";
+mo:release "1966";
+dct:dateSubmitted "2021-02-09 16:57:10" .
+<ttp://jidc.io/music/159> a mo:Record;
+dct:identifier "4394262";
+mo:artist "Woodkid";
+dct:title "The Golden Age";
+dct:medium "LP, Album, Ltd";
+mo:release "2013";
+dct:dateSubmitted "2021-02-10 04:08:35" .
+<ttp://jidc.io/music/160> a mo:Record;
+dct:identifier "12004855";
+mo:artist "Slow Mass";
+dct:title "On Watch";
+dct:medium "LP, Album, Ltd, Blu";
+mo:release "2018";
+dct:dateSubmitted "2021-02-10 02:13:52" .
+<ttp://jidc.io/music/161> a mo:Record;
+dct:identifier "31091825";
+mo:artist "Slow Mass";
+dct:title "Drift Themes";
+dct:medium "LP, Num, Cok";
+mo:release "2024";
+dct:dateSubmitted "2024-09-29 05:13:30" .
+<ttp://jidc.io/music/162> a mo:Record;
+dct:identifier "34072762";
+mo:artist "Slow Mass";
+dct:title "Low on Foot";
+dct:medium "LP, Album, Dlx, Ltd, Bla";
+mo:release "2025";
+dct:dateSubmitted "2025-07-16 12:36:13" .
+<ttp://jidc.io/music/163> a mo:Record;
+dct:identifier "1472984";
+mo:artist "Sergei Prokofiev - Gérard Philipe, Gennadi Rozhdestvensky, Russian State Symphony Orchestra, Gil-Renaud";
+dct:title "Pierre Et Le Loup";
+dct:medium "LP, Album, RE";
+mo:release "1978";
+dct:dateSubmitted "2021-02-09 16:57:55" .
+<ttp://jidc.io/music/164> a mo:Record;
+dct:identifier "10471965";
+mo:artist "Jeff Buckley";
+dct:title "Grace";
+dct:medium "LP, Album, RE, 180";
+mo:release "2015";
+dct:dateSubmitted "2021-02-10 04:07:46" .
+<ttp://jidc.io/music/165> dct:title "Red Skies Over Paradise";
+dct:medium "LP, Album";
+dct:identifier "777636";
+a mo:Record;
+mo:artist "Fischer-Z";
+mo:release "1981";
+dct:dateSubmitted "2021-02-10 04:55:24" .
+<ttp://jidc.io/music/166> a mo:Record;
+dct:identifier "11803042";
+mo:artist "Rumours (2)";
+dct:title "Megamix";
+dct:medium "LP, Album";
+mo:release "2018";
+dct:dateSubmitted "2021-02-09 16:35:18" .
+<ttp://jidc.io/music/167> a mo:Record;
+dct:identifier "21079150";
+mo:artist "Floating Points, Pharoah Sanders & London Symphony Orchestra";
+dct:title "Promises";
+dct:medium "LP, Album, Ltd, Han";
+mo:release "2021";
+dct:dateSubmitted "2023-07-25 05:50:44" .
+<ttp://jidc.io/music/168> a mo:Record;
+dct:identifier "14761396";
+mo:artist "The Guru Guru";
+dct:title "Point Fingers";
+dct:medium "LP, Album, Tra";
+mo:release "2020";
+dct:dateSubmitted "2023-11-17 02:07:03" .
+<ttp://jidc.io/music/169> a mo:Record;
+dct:identifier "32020127";
+mo:artist "toe (5)";
+dct:title "Now I See The Light";
+dct:medium "LP, Album, Mad";
+mo:release "2024";
+dct:dateSubmitted "2024-12-12 01:50:55" .
+<ttp://jidc.io/music/170> a mo:Record;
+dct:identifier "16868718";
+mo:artist "Madlib";
+dct:title "Sound Ancestors";
+dct:medium "LP, Album";
+mo:release "2021";
+dct:dateSubmitted "2021-04-23 02:42:47" .
+<ttp://jidc.io/music/171> a mo:Record;
+dct:identifier "7970630";
+mo:artist "This Will Destroy You";
+dct:title "Young Mountain";
+dct:medium "LP, Album, Ltd, RE, RP, Pur";
+mo:release "2015";
+dct:dateSubmitted "2021-02-10 04:07:23" .
+<ttp://jidc.io/music/172> a mo:Record;
+dct:identifier "9730992";
+mo:artist "Chris Rea";
+dct:title "Shamrock Diaries";
+dct:medium "LP, Album, TP";
+mo:release "1985";
+dct:dateSubmitted "2021-02-10 04:51:09" .
+<ttp://jidc.io/music/173> a mo:Record;
+dct:identifier "12727681";
+mo:artist "Vibronics";
+dct:title "Dub Italizer";
+dct:medium "2xLP, Album, RE";
+mo:release "2019";
+dct:dateSubmitted "2025-06-08 07:52:43" .
+<ttp://jidc.io/music/174> a mo:Record;
+dct:identifier "6653718";
+mo:artist "Run The Jewels";
+dct:title "Run The Jewels 2";
+dct:medium "2xLP, Album, S/Edition, Tea";
+mo:release "2015";
+dct:dateSubmitted "2021-02-09 16:48:11" .
+<ttp://jidc.io/music/175> a mo:Record;
+dct:identifier "6241699";
+mo:artist "Iceage";
+dct:title "Plowing Into The Field Of Love";
+dct:medium "LP + LP, S/Sided + Album";
+mo:release "2014";
+dct:dateSubmitted "2021-02-09 16:09:59" .
+<ttp://jidc.io/music/176> a mo:Record;
+dct:identifier "16470315";
+mo:artist "Interpol";
+dct:title "Turn On The Bright Lights";
+dct:medium "LP, Album, RE";
+mo:release "2020";
+dct:dateSubmitted "2021-02-09 15:49:37" .
+<ttp://jidc.io/music/177> a mo:Record;
+dct:identifier "13437823";
+mo:artist "Julien Baker";
+dct:title "Sprained Ankle";
+dct:medium "LP, Album";
+mo:release "2019";
+dct:dateSubmitted "2021-08-19 06:25:07" .
+<ttp://jidc.io/music/178> dct:title "Twin Fantasy (Mirror To Mirror) ";
+dct:medium "2xLP, Album, RE, Whi";
+a mo:Record;
+dct:identifier "12760926";
+mo:artist "Car Seat Headrest";
+mo:release "2018";
+dct:dateSubmitted "2021-02-09 15:50:02" .
+<ttp://jidc.io/music/179> a mo:Record;
+dct:identifier "12018737";
+mo:artist "Noah And The Whale";
+dct:title "The First Days Of Spring";
+dct:medium "LP, Album, RE";
+mo:release "2018";
+dct:dateSubmitted "2021-02-09 15:51:15" .
+<ttp://jidc.io/music/180> a mo:Record;
+dct:identifier "12895120";
+mo:artist "Serge Gainsbourg";
+dct:title "Histoire De Melody Nelson";
+dct:medium "LP, Album, RE, RM, 180";
+mo:release "2016";
+dct:dateSubmitted "2022-12-04 07:16:59" .
+<ttp://jidc.io/music/181> a mo:Record;
+dct:identifier "12753004";
+mo:artist "Neutral Milk Hotel";
+dct:title "In The Aeroplane Over The Sea";
+dct:medium "LP, Album, RE, 180";
+mo:release "2015";
+dct:dateSubmitted "2021-02-09 15:54:27" .
+<ttp://jidc.io/music/182> dct:title "Red Forest";
+dct:medium "LP, Album, Ltd, Num, RE, RM, Red";
+a mo:Record;
+dct:identifier "19422304";
+mo:artist "If These Trees Could Talk";
+mo:release "2021";
+dct:dateSubmitted "2021-08-19 06:24:48" .
+<ttp://jidc.io/music/183> a mo:Record;
+dct:identifier "14182070";
+mo:artist "Cult Of Luna";
+dct:title "A Dawn To Fear";
+dct:medium "2xLP, Album, 180";
+mo:release "2019";
+dct:dateSubmitted "2021-02-10 01:53:00" .
+<ttp://jidc.io/music/184> a mo:Record;
+dct:identifier "28390039";
+mo:artist "Ryuichi Sakamoto, Alva Noto, Bryce Dessner";
+dct:title "The Revenant (Original Motion Picture Soundtrack)";
+dct:medium "2xLP, Album, RE";
+mo:release "2023";
+dct:dateSubmitted "2023-12-18 02:35:20" .
+<ttp://jidc.io/music/185> a mo:Record;
+dct:identifier "3244766";
+mo:artist "DJ Shadow";
+dct:title "Endtroducing...";
+dct:medium "2xLP, Album, RE, 180";
+mo:release "2011";
+dct:dateSubmitted "2021-02-09 17:01:02" .
+<ttp://jidc.io/music/186> a mo:Record;
+dct:identifier "28318528";
+mo:artist "Ludwig Göransson";
+dct:title "Oppenheimer (Original Motion Picture Soundtrack)";
+dct:medium "3xLP, Album, Ora";
+mo:release "2023";
+dct:dateSubmitted "2024-12-25 13:29:23" .
+<ttp://jidc.io/music/187> a mo:Record;
+dct:identifier "10237019";
+mo:artist "Akcept & DTR (2) / Blind Prophet & Bukkha";
+dct:title "Joint Forces Pt 3";
+dct:medium "12\", EP";
+mo:release "2017";
+dct:dateSubmitted "2021-02-09 16:36:52" .
+<ttp://jidc.io/music/188> a mo:Record;
+dct:identifier "13480307";
+mo:artist "Mark Guiliana";
+dct:title "Beat Music! Beat Music! Beat Music!";
+dct:medium "LP, Album, 180";
+mo:release "2019";
+dct:dateSubmitted "2021-02-09 16:26:11" .
+<ttp://jidc.io/music/189> dct:title "Petits Chefs-D'Oeuvre Pour Guitare Classique";
+dct:medium "LP, Album";
+a mo:Record;
+dct:identifier "4232450";
+mo:artist "Simon Munting";
+mo:release "1974";
+dct:dateSubmitted "2021-02-09 16:59:34" .
+<ttp://jidc.io/music/190> dct:title "Relics";
+dct:medium "LP, Comp, RE";
+a mo:Record;
+dct:identifier "1244611";
+mo:artist "Pink Floyd";
+mo:release "1982";
+dct:dateSubmitted "2021-02-10 05:04:58" .
+<ttp://jidc.io/music/191> dct:title "Stuff&Such";
+dct:medium "LP, Album, RE, Bla";
+a mo:Record;
+dct:identifier "13493291";
+mo:artist "Kapitan Korsakov";
+mo:release "0";
+dct:dateSubmitted "2021-02-10 01:05:18" .
+<ttp://jidc.io/music/192> dct:title "The Eternal Perhaps";
+dct:medium "LP";
+a mo:Record;
+dct:identifier "14637195";
+mo:artist "Steven De Bruyn";
+mo:release "2020";
+dct:dateSubmitted "2021-02-09 16:25:46" .
+<ttp://jidc.io/music/193> a mo:Record;
+dct:identifier "2485033";
+mo:artist "Eddie Vedder";
+dct:title "Into The Wild";
+dct:medium "LP, Album, RE, 180";
+mo:release "2010";
+dct:dateSubmitted "2021-02-09 16:02:29" .
+<ttp://jidc.io/music/194> a mo:Record;
+dct:identifier "3020028";
+mo:artist "Slowdive";
+dct:title "Souvlaki";
+dct:medium "LP, Album, RE, 180";
+mo:release "2011";
+dct:dateSubmitted "2021-02-10 02:22:58" .
+<ttp://jidc.io/music/195> a mo:Record;
+dct:identifier "3430867";
+mo:artist "John Mayer";
+dct:title "Where The Light Is: John Mayer Live In Los Angeles";
+dct:medium "4xLP, Album, RE, RM, 180 + Box";
+mo:release "2012";
+dct:dateSubmitted "2021-02-09 15:50:25" .
+<ttp://jidc.io/music/196> dct:identifier "2542733";
+a mo:Record;
+mo:artist "Herbie Hancock";
+dct:title "Head Hunters";
+dct:medium "LP, Album, RE, RM, 180";
+mo:release "2009";
+dct:dateSubmitted "2021-02-09 16:19:12" .
+<ttp://jidc.io/music/197> dct:title "Blackwater Park";
+dct:medium "2xLP, Album, RE, RM, 180";
+a mo:Record;
+dct:identifier "3813877";
+mo:artist "Opeth";
+mo:release "2010";
+dct:dateSubmitted "2021-02-09 17:15:18" .
+<ttp://jidc.io/music/198> a mo:Record;
+dct:identifier "2929286";
+mo:artist "Focus (2)";
+dct:title "Moving Waves";
+dct:medium "LP, Album, RE, 180";
+mo:release "2009";
+dct:dateSubmitted "2021-02-10 04:21:32" .
+<ttp://jidc.io/music/199> a mo:Record;
+dct:identifier "5522861";
+mo:artist "Philip Glass";
+dct:title "Solo Piano";
+dct:medium "LP, Album, RE, 180";
+mo:release "2014";
+dct:dateSubmitted "2021-02-09 16:50:58" .
+<ttp://jidc.io/music/200> a mo:Record;
+dct:identifier "3372277";
+mo:artist "Bill Withers";
+dct:title "Just As I Am";
+dct:medium "LP, Album, RE, RM, 180";
+mo:release "2012";
+dct:dateSubmitted "2021-02-09 16:17:51" .
+<ttp://jidc.io/music/201> mo:artist "Doe Maar";
+dct:identifier "13502220";
+a mo:Record;
+dct:title "Skunk";
+dct:medium "LP, Album, RE + CD, Album, RE";
+mo:release "2018";
+dct:dateSubmitted "2021-02-09 16:04:06" .
+<ttp://jidc.io/music/202> dct:identifier "6734085";
+a mo:Record;
+mo:artist "Hans Zimmer";
+dct:title "Interstellar (Original Motion Picture Soundtrack)";
+dct:medium "2xLP, Album, Dlx, Ltd, 180";
+mo:release "2015";
+dct:dateSubmitted "2021-02-09 16:52:19" .
+<ttp://jidc.io/music/203> a mo:Record;
+dct:identifier "12567129";
+mo:artist "Johann Sebastian Bach - Werner Simons";
+dct:title "Toccata Et Fugue En Ré Mineur Et Autres Œuvres Célèbres Pour Orgue";
+dct:medium "LP";
+mo:release "0";
+dct:dateSubmitted "2021-02-09 16:54:04" .
+<ttp://jidc.io/music/204> a mo:Record;
+dct:identifier "5638861";
+mo:artist "Frédéric Chopin, Grant Johannesen";
+dct:title "Les Polonaises (Volume 1)";
+dct:medium "LP, Album";
+mo:release "0";
+dct:dateSubmitted "2021-02-09 16:54:34" .
+<ttp://jidc.io/music/205> a mo:Record;
+dct:identifier "23202626";
+mo:artist "Avishai Cohen Trio";
+dct:title "Shifting Sands";
+dct:medium "LP, Album";
+mo:release "2022";
+dct:dateSubmitted "2022-12-04 07:17:15" .
+<ttp://jidc.io/music/206> a mo:Record;
+dct:identifier "13090298";
+mo:artist "Khruangbin";
+dct:title "Con Todo El Mundo";
+dct:medium "LP, Album, 180";
+mo:release "2018";
+dct:dateSubmitted "2021-04-23 02:43:15" .
+<ttp://jidc.io/music/207> a mo:Record;
+dct:identifier "10239675";
+mo:artist "Forest Swords";
+dct:title "Compassion";
+dct:medium "LP, Album";
+mo:release "2017";
+dct:dateSubmitted "2021-02-09 17:04:32" .
+<ttp://jidc.io/music/208> a mo:Record;
+dct:identifier "17151796";
+mo:artist "Black Country, New Road";
+dct:title "For The First Time";
+dct:medium "LP, Album, Ltd, Whi";
+mo:release "2021";
+dct:dateSubmitted "2021-03-12 09:11:56" .
+<ttp://jidc.io/music/209> a mo:Record;
+dct:identifier "21933541";
+mo:artist "Black Country, New Road";
+dct:title "Ants From Up There";
+dct:medium "2xLP, Album + 2xLP, Album + Box, Dlx";
+mo:release "2022";
+dct:dateSubmitted "2022-05-14 08:00:13" .
+<ttp://jidc.io/music/210> a mo:Record;
+dct:identifier "10784357";
+mo:artist "Fleet Foxes";
+dct:title "Fleet Foxes";
+dct:medium "LP, Album, RE, RP, Gre + 12\", EP, RE, Gre";
+mo:release "2017";
+dct:dateSubmitted "2021-02-09 15:48:09" .
+<ttp://jidc.io/music/211> a mo:Record;
+dct:identifier "11063628";
+mo:artist "Amenra";
+dct:title "Mass VI";
+dct:medium "2x12\", Album";
+mo:release "2017";
+dct:dateSubmitted "2021-02-09 17:13:11" .
+<ttp://jidc.io/music/212> a mo:Record;
+dct:identifier "10873086";
+mo:artist "Barthélémy Rosso";
+dct:title "Pièces Pour Guitare - Jeux Interdits...";
+dct:medium "LP, Album";
+mo:release "0";
+dct:dateSubmitted "2021-02-09 17:00:06" .
+<ttp://jidc.io/music/213> a mo:Record;
+dct:identifier "16165238";
+mo:artist "Pallbearer";
+dct:title "Forgotten Days";
+dct:medium "2xLP, Album";
+mo:release "2020";
+dct:dateSubmitted "2021-02-10 01:54:47" .
+<ttp://jidc.io/music/214> a mo:Record;
+dct:identifier "24260111";
+mo:artist "Conjurer";
+dct:title "Páthos";
+dct:medium "LP, Album, Whi + LP, S/Sided, Etch, Whi + Ltd";
+mo:release "2022";
+dct:dateSubmitted "2024-01-11 03:30:54" .
+<ttp://jidc.io/music/215> a mo:Record;
+dct:identifier "10043872";
+mo:artist "Pallbearer";
+dct:title "Heartless";
+dct:medium "2xLP, Album, Ltd";
+mo:release "2017";
+dct:dateSubmitted "2021-02-10 01:54:04" .
+<ttp://jidc.io/music/216> a mo:Record;
+dct:identifier "28164106";
+mo:artist "Unwound";
+dct:title "Leaves Turn Inside You";
+dct:medium "2xLP, Album, Ltd, RP, Blu";
+mo:release "2023";
+dct:dateSubmitted "2024-07-09 03:31:35" .
+<ttp://jidc.io/music/217> a mo:Record;
+dct:identifier "15814693";
+mo:artist "Valium Aggelein";
+dct:title "Black Moon";
+dct:medium "2xLP, Comp";
+mo:release "2020";
+dct:dateSubmitted "2025-01-03 09:45:09" .
+<ttp://jidc.io/music/218> a mo:Record;
+dct:identifier "27800670";
+mo:artist "Duster (2)";
+dct:title "Stratosphere";
+dct:medium "LP, Album, Num, RE, Gre";
+mo:release "2023";
+dct:dateSubmitted "2024-07-09 03:31:45" .
+<ttp://jidc.io/music/219> dct:title "Everyday Life";
+dct:medium "2xLP, Album, 180";
+a mo:Record;
+dct:identifier "14420200";
+mo:artist "Coldplay";
+mo:release "2019";
+dct:dateSubmitted "2021-02-10 04:13:36" .
+<ttp://jidc.io/music/220> dct:title "Moon Safari";
+dct:medium "LP, Album, RE, RP";
+a mo:Record;
+dct:identifier "31419368";
+mo:artist "AIR";
+mo:release "2023";
+dct:dateSubmitted "2024-08-29 01:44:57" .
+<ttp://jidc.io/music/221> a mo:Record;
+dct:identifier "31919908";
+mo:artist "Coldplay";
+dct:title "Moon Music";
+dct:medium "LP, Album, Cle + CD + Ltd, Num, Not";
+mo:release "2024";
+dct:dateSubmitted "2024-10-13 06:41:35" .
+<ttp://jidc.io/music/222> a mo:Record;
+dct:identifier "5699282";
+mo:artist "Coldplay";
+dct:title "Ghost Stories";
+dct:medium "LP, Album, 180";
+mo:release "2014";
+dct:dateSubmitted "2021-02-10 04:11:52" .
+<ttp://jidc.io/music/223> a mo:Record;
+dct:identifier "7761781";
+mo:artist "Coldplay";
+dct:title "Viva La Vida Or Death And All His Friends";
+dct:medium "LP, Album, RE, Gat";
+mo:release "0";
+dct:dateSubmitted "2021-02-10 04:11:38" .
+<ttp://jidc.io/music/224> dct:title "Parachutes";
+dct:medium "LP, Album, Ltd, RE, RP, Yel";
+a mo:Record;
+dct:identifier "16231042";
+mo:artist "Coldplay";
+mo:release "2020";
+dct:dateSubmitted "2021-02-10 04:09:42" .
+<ttp://jidc.io/music/225> dct:title "A Hero's Death";
+dct:medium "LP, Album";
+a mo:Record;
+dct:identifier "15697177";
+mo:artist "Fontaines D.C.";
+mo:release "2020";
+dct:dateSubmitted "2021-02-10 03:59:04" .
+<ttp://jidc.io/music/226> a mo:Record;
+dct:identifier "15966198";
+mo:artist "Idles";
+dct:title "Ultra Mono";
+dct:medium "LP, Album";
+mo:release "2020";
+dct:dateSubmitted "2021-02-10 03:56:56" .
+<ttp://jidc.io/music/227> dct:identifier "22290484";
+a mo:Record;
+mo:artist "Fontaines D.C.";
+dct:title "Skinty Fia";
+dct:medium "LP, Album, Ltd, Yel";
+mo:release "2022";
+dct:dateSubmitted "2022-05-14 08:01:39" .
+<ttp://jidc.io/music/228> a mo:Record;
+dct:identifier "15048466";
+mo:artist "Bloodbath";
+dct:title "The Arrow Of Satan Is Drawn";
+dct:medium "LP, Album, 180";
+mo:release "2018";
+dct:dateSubmitted "2021-02-10 01:02:56" .
+<ttp://jidc.io/music/229> a mo:Record;
+dct:identifier "12903020";
+mo:artist "The Ocean (2)";
+dct:title "Phanerozoic I: Palaeozoic";
+dct:medium "LP, Album, Ltd, Cle";
+mo:release "2018";
+dct:dateSubmitted "2021-02-10 01:55:40" .
+<ttp://jidc.io/music/230> a mo:Record;
+dct:identifier "4892089";
+mo:artist "Johann Sebastian Bach / Lorin Maazel";
+dct:title "Les Concertos Brandebourgeois";
+dct:medium "2xLP, Album, RE";
+mo:release "1972";
+dct:dateSubmitted "2021-02-09 16:53:15" .
+<ttp://jidc.io/music/231> a mo:Record;
+dct:identifier "9180570";
+mo:artist "Pink Floyd";
+dct:title "Wish You Were Here";
+dct:medium "LP, Album, RE, RM, 180";
+mo:release "2016";
+dct:dateSubmitted "2021-02-09 17:25:57" .
+<ttp://jidc.io/music/232> a mo:Record;
+dct:identifier "3953840";
+mo:artist "Balthazar (6)";
+dct:title "Rats";
+dct:medium "LP, Album, Gat";
+mo:release "2012";
+dct:dateSubmitted "2021-02-09 15:52:37" .
+<ttp://jidc.io/music/233> a mo:Record;
+dct:identifier "1137801";
+mo:artist "Cream (2)";
+dct:title "Goodbye";
+dct:medium "LP, Album";
+mo:release "1969";
+dct:dateSubmitted "2021-02-10 05:06:31" .
+<ttp://jidc.io/music/234> a mo:Record;
+dct:identifier "3033375";
+mo:artist "Roger Daltrey";
+dct:title "The Best Of Roger Daltrey";
+dct:medium "LP, Comp";
+mo:release "1981";
+dct:dateSubmitted "2021-02-10 05:03:03" .
+<ttp://jidc.io/music/235> dct:identifier "11990646";
+a mo:Record;
+mo:artist "Snow Patrol";
+dct:title "Wildness";
+dct:medium "LP, Album";
+mo:release "2018";
+dct:dateSubmitted "2021-02-10 04:09:13" .
+<ttp://jidc.io/music/236> a mo:Record;
+dct:identifier "3203929";
+mo:artist "The Osmonds";
+dct:title "The Osmonds Greatest Hits";
+dct:medium "2xLP, Comp";
+mo:release "1977";
+dct:dateSubmitted "2021-02-10 05:04:25" .
+<ttp://jidc.io/music/237> a mo:Record;
+dct:identifier "14333870";
+mo:artist "Michael Kiwanuka";
+dct:title "Kiwanuka";
+dct:medium "2xLP, Album, 180";
+mo:release "2019";
+dct:dateSubmitted "2021-02-09 17:08:16" .
+<ttp://jidc.io/music/238> a mo:Record;
+dct:identifier "13638427";
+mo:artist "American Football";
+dct:title "American Football";
+dct:medium "LP, Album, RE, Blu";
+mo:release "2019";
+dct:dateSubmitted "2021-02-10 02:19:17" .
+<ttp://jidc.io/music/239> mo:artist "Sannhet";
+dct:identifier "10753158";
+a mo:Record;
+dct:title "So Numb";
+dct:medium "LP, Album, Ltd, Cle";
+mo:release "2017";
+dct:dateSubmitted "2021-02-10 04:02:47" .
+<ttp://jidc.io/music/240> a mo:Record;
+dct:identifier "9141669";
+mo:artist "Alcest";
+dct:title "Kodama";
+dct:medium "LP, Album, 180";
+mo:release "2016";
+dct:dateSubmitted "2021-02-09 17:10:58" .
+<ttp://jidc.io/music/241> mo:artist "Knocked Loose";
+dct:title "Laugh Tracks";
+a mo:Record;
+dct:identifier "13635252";
+dct:medium "LP, Album, RP, Blu";
+mo:release "2019";
+dct:dateSubmitted "2021-02-27 11:13:38" .
+<ttp://jidc.io/music/242> a mo:Record;
+dct:identifier "7764062";
+mo:artist "Counterparts";
+dct:title "Tragedy Will Find Us";
+dct:medium "LP, Album, Bla";
+mo:release "2015";
+dct:dateSubmitted "2021-02-10 02:05:48" .
+<ttp://jidc.io/music/243> a mo:Record;
+dct:identifier "25261042";
+mo:artist "Counterparts";
+dct:title "A Eulogy For Those Still Here";
+dct:medium "LP, Ltd, RP, Mag";
+mo:release "2022";
+dct:dateSubmitted "2023-10-27 07:50:50" .
+<ttp://jidc.io/music/244> a mo:Record;
+dct:identifier "28465663";
+mo:artist "Feverchild";
+dct:title "Altering A Memory";
+dct:medium "12\", EP";
+mo:release "2023";
+dct:dateSubmitted "2023-12-18 02:34:42" .
+<ttp://jidc.io/music/245> a mo:Record;
+dct:identifier "22116034";
+mo:artist "Cult Of Luna";
+dct:title "The Long Road North";
+dct:medium "2xLP, Album, 180";
+mo:release "2022";
+dct:dateSubmitted "2023-10-27 07:47:53" .
+<ttp://jidc.io/music/246> a mo:Record;
+dct:identifier "8456393";
+mo:artist "Nothing (12)";
+dct:title "Tired Of Tomorrow";
+dct:medium "LP, Album";
+mo:release "2016";
+dct:dateSubmitted "2021-02-10 02:20:48" .
+<ttp://jidc.io/music/247> a mo:Record;
+dct:identifier "12432832";
+mo:artist "Nothing (12)";
+dct:title "Dance On The Blacktop";
+dct:medium "LP, Album, Ltd, Bro";
+mo:release "2018";
+dct:dateSubmitted "2021-02-10 02:22:03" .
+<ttp://jidc.io/music/248> a mo:Record;
+dct:identifier "16848486";
+mo:artist "The Dillinger Escape Plan";
+dct:title "Calculating Infinity";
+dct:medium "LP, Album, Ltd, RE, RP, Ora";
+mo:release "2021";
+dct:dateSubmitted "2021-03-12 09:13:27" .
+<ttp://jidc.io/music/249> dct:title "The Sound Of Perseverance";
+dct:medium "LP, Ora + LP, Red + Album, RE, RM";
+a mo:Record;
+dct:identifier "19368928";
+mo:artist "Death (2)";
+mo:release "2021";
+dct:dateSubmitted "2021-08-19 06:23:49" .
+<ttp://jidc.io/music/250> a mo:Record;
+dct:identifier "24132143";
+mo:artist "Yob";
+dct:title "Our Raw Heart";
+dct:medium "2xLP, Album, Ltd, RP, Blu";
+mo:release "2022";
+dct:dateSubmitted "2023-10-27 07:36:45" .
+<ttp://jidc.io/music/251> a mo:Record;
+dct:identifier "21915076";
+mo:artist "Cloakroom";
+dct:title "Dissolution Wave";
+dct:medium "LP, Album, Mus";
+mo:release "2022";
+dct:dateSubmitted "2024-04-28 11:42:21" .
+<ttp://jidc.io/music/252> a mo:Record;
+dct:identifier "23284367";
+mo:artist "Cave In";
+dct:title "Heavy Pendulum";
+dct:medium "2xLP, Album, Red";
+mo:release "2022";
+dct:dateSubmitted "2022-08-11 14:01:26" .
+<ttp://jidc.io/music/253> a mo:Record;
+dct:identifier "2845147";
+mo:artist "Eric Clapton";
+dct:title "Unplugged";
+dct:medium "2xLP, Album, RSD, RE, 180";
+mo:release "2011";
+dct:dateSubmitted "2021-02-10 05:08:03" .
+<ttp://jidc.io/music/254> a mo:Record;
+dct:identifier "503269";
+mo:artist "Neil Young & Crazy Horse";
+dct:title "Rust Never Sleeps";
+dct:medium "LP, Album";
+mo:release "1979";
+dct:dateSubmitted "2021-02-10 05:05:34" .
+<ttp://jidc.io/music/255> dct:title "Blood Mountain";
+dct:medium "LP, Album, RE, RP, Gre";
+a mo:Record;
+dct:identifier "6775331";
+mo:artist "Mastodon";
+mo:release "2015";
+dct:dateSubmitted "2021-02-10 01:13:30" .
+<ttp://jidc.io/music/256> a mo:Record;
+dct:identifier "15435063";
+mo:artist "Mastodon";
+dct:title "Crack The Skye";
+dct:medium "LP, Album";
+mo:release "2018";
+dct:dateSubmitted "2021-02-27 11:27:51" .
+<ttp://jidc.io/music/257> a mo:Record;
+dct:identifier "28638091";
+mo:artist "Taylor Swift";
+dct:title "1989 (Taylor's Version)";
+dct:medium "2xLP, Album, S/Edition, Blu";
+mo:release "2023";
+dct:dateSubmitted "2023-12-18 02:35:56" .
+<ttp://jidc.io/music/258> dct:identifier "28360759";
+a mo:Record;
+mo:artist "James Blake";
+dct:title "Playing Robots Into Heaven";
+dct:medium "LP, Album";
+mo:release "2023";
+dct:dateSubmitted "2023-09-30 03:12:25" .
+<ttp://jidc.io/music/259> a mo:Record;
+dct:identifier "33537039";
+mo:artist "Deafheaven";
+dct:title "Lonely People With Power";
+dct:medium "2xLP, Album, Gre";
+mo:release "2025";
+dct:dateSubmitted "2025-04-10 23:41:28" .
+<ttp://jidc.io/music/260> a mo:Record;
+dct:identifier "18485218";
+mo:artist "Gojira (2)";
+dct:title "Fortitude";
+dct:medium "LP, Album, Blu";
+mo:release "2021";
+dct:dateSubmitted "2021-05-12 08:57:43" .
+<ttp://jidc.io/music/261> a mo:Record;
+dct:identifier "19955041";
+mo:artist "Turnstile (2)";
+dct:title "Glow On";
+dct:medium "LP, Album";
+mo:release "2021";
+dct:dateSubmitted "2023-10-27 07:41:31" .
+<ttp://jidc.io/music/262> a mo:Record;
+dct:identifier "9635404";
+mo:artist "Code Orange (3)";
+dct:title "Forever";
+dct:medium "LP, Album";
+mo:release "2017";
+dct:dateSubmitted "2021-02-10 02:02:35" .
+<ttp://jidc.io/music/263> a mo:Record;
+dct:identifier "8647468";
+mo:artist "Gojira (2)";
+dct:title "Magma";
+dct:medium "LP, Album";
+mo:release "2016";
+dct:dateSubmitted "2021-02-10 01:56:14" .
+<ttp://jidc.io/music/264> a mo:Record;
+dct:identifier "12903127";
+mo:artist "Trivium";
+dct:title "Shogun";
+dct:medium "2xLP, Album, RE, Mag";
+mo:release "2018";
+dct:dateSubmitted "2021-05-12 08:58:14" .
+<ttp://jidc.io/music/265> a mo:Record;
+dct:identifier "5302132";
+mo:artist "Mogwai";
+dct:title "Rave Tapes";
+dct:medium "LP, Album, 180";
+mo:release "2014";
+dct:dateSubmitted "2021-02-10 04:04:45" .
+<ttp://jidc.io/music/266> a mo:Record;
+dct:identifier "6790936";
+mo:artist "The Rolling Stones";
+dct:title "Some Girls";
+dct:medium "LP, Album, Red";
+mo:release "1978";
+dct:dateSubmitted "2021-02-10 05:03:48" .
+<ttp://jidc.io/music/267> dct:identifier "370041";
+a mo:Record;
+mo:artist "The Rolling Stones";
+dct:title "Emotional Rescue";
+dct:medium "LP, Album";
+mo:release "1980";
+dct:dateSubmitted "2021-02-10 05:03:27" .
+<ttp://jidc.io/music/268> a mo:Record;
+dct:identifier "13776563";
+mo:artist "Black Midi";
+dct:title "Schlagenheim";
+dct:medium "LP, Album, 180";
+mo:release "2019";
+dct:dateSubmitted "2021-02-10 03:54:47" .
+<ttp://jidc.io/music/269> a mo:Record;
+dct:identifier "31910491";
+mo:artist "Geordie Greep";
+dct:title "The New Sound";
+dct:medium "2xLP, Album, Reg";
+mo:release "2024";
+dct:dateSubmitted "2024-10-28 02:41:25" .
+<ttp://jidc.io/music/270> a mo:Record;
+dct:identifier "12110434";
+mo:artist "Dimitri Verhulst, Corrie van Binsbergen";
+dct:title "Godverdomse Dagen Op Een Godverdomse Bol";
+dct:medium "LP";
+mo:release "2017";
+dct:dateSubmitted "2021-02-10 04:15:27" .
+<ttp://jidc.io/music/271> a mo:Record;
+dct:identifier "22634420";
+mo:artist "Fiddlehead (2)";
+dct:title "Between the Richness";
+dct:medium "LP, Album, Ora";
+mo:release "2021";
+dct:dateSubmitted "2023-10-27 07:45:53" .
+<ttp://jidc.io/music/272> dct:title "Tigers Jaw";
+dct:medium "LP, Album, RE, RP, Pur";
+a mo:Record;
+dct:identifier "28308718";
+mo:artist "Tigers Jaw";
+mo:release "0";
+dct:dateSubmitted "2023-10-27 07:45:03" .
+<ttp://jidc.io/music/273> a mo:Record;
+dct:identifier "26420513";
+mo:artist "Basement (4)";
+dct:title "Colourmeinkindness";
+dct:medium "LP, Album, RE + LP, S/Sided, Etch + Dlx, Ltd, Cok";
+mo:release "2023";
+dct:dateSubmitted "2023-10-27 07:51:17" .
+<ttp://jidc.io/music/274> a mo:Record;
+dct:identifier "29268076";
+mo:artist "Superheaven";
+dct:title "Jar (10th Anniversary Edition)";
+dct:medium "LP, Album, Ltd, RE, Oli";
+mo:release "2023";
+dct:dateSubmitted "2024-10-19 09:57:26" .
+<ttp://jidc.io/music/275> dct:identifier "26011231";
+mo:artist "One Step Closer";
+mo:release "2023";
+dct:title "This Place You Know";
+dct:medium "LP, Album, Ltd, RP, Pin";
+a mo:Record;
+dct:dateSubmitted "2024-01-11 03:32:17" .
+<ttp://jidc.io/music/276> a mo:Record;
+dct:identifier "20103439";
+mo:artist "Молчат Дома = Молчат Дома";
+dct:title "Этажи = Etazhi";
+dct:medium "LP, Album, RE, Cok";
+mo:release "2021";
+dct:dateSubmitted "2022-02-17 09:53:38" .
+<ttp://jidc.io/music/277> a mo:Record;
+dct:identifier "8859356";
+mo:artist "Russian Circles";
+dct:title "Guidance";
+dct:medium "LP, Album";
+mo:release "2016";
+dct:dateSubmitted "2021-02-10 04:03:51" .
+<ttp://jidc.io/music/278> a mo:Record;
+dct:identifier "10868997";
+mo:artist "Chelsea Wolfe";
+dct:title "Hiss Spun";
+dct:medium "LP, Pal + LP, S/Sided, Etch, Pal + Album, Ltd";
+mo:release "2017";
+dct:dateSubmitted "2022-02-17 09:51:04" .
+<ttp://jidc.io/music/279> a mo:Record;
+dct:identifier "19919110";
+mo:artist "Deafheaven";
+dct:title "Infinite Granite";
+dct:medium "2xLP, Album, Ltd, Blu";
+mo:release "2021";
+dct:dateSubmitted "2022-01-04 03:54:30" .
+<ttp://jidc.io/music/280> a mo:Record;
+dct:identifier "20850733";
+mo:artist "Emma Ruth Rundle";
+dct:title "Engine Of Hell";
+dct:medium "LP, Album, Sil";
+mo:release "2021";
+dct:dateSubmitted "2022-08-11 13:55:57" .
+<ttp://jidc.io/music/281> a mo:Record;
+dct:identifier "30961789";
+mo:artist "REZN";
+dct:title "Burden";
+dct:medium "LP, Album, Yel";
+mo:release "2024";
+dct:dateSubmitted "2024-10-19 09:56:23" .
+<ttp://jidc.io/music/282> a mo:Record;
+dct:identifier "9093751";
+mo:artist "Emma Ruth Rundle";
+dct:title "Marked For Death";
+dct:medium "LP, Album, Cle";
+mo:release "2016";
+dct:dateSubmitted "2021-02-10 02:10:27" .
+<ttp://jidc.io/music/283> a mo:Record;
+dct:identifier "6346724";
+mo:artist "Various";
+dct:title "Funky Chicken: Belgian Grooves From The 70's - Part 1";
+dct:medium "2xLP, Comp, Red";
+mo:release "2014";
+dct:dateSubmitted "2021-02-09 16:16:31" .
+<ttp://jidc.io/music/284> a mo:Record;
+dct:identifier "13492074";
+mo:artist "Black Flower (2)";
+dct:title "Future Flora";
+dct:medium "LP, Album";
+mo:release "2019";
+dct:dateSubmitted "2021-02-09 16:31:18" .
+<ttp://jidc.io/music/285> a mo:Record;
+dct:identifier "14093218";
+mo:artist "TaxiWars";
+dct:title "Artificial Horizon";
+dct:medium "LP, Album";
+mo:release "2019";
+dct:dateSubmitted "2021-02-09 16:32:39" .
+<ttp://jidc.io/music/286> a mo:Record;
+dct:identifier "15499420";
+mo:artist "Compro Oro With Murat Ertel & Esma Ertel";
+dct:title "Simurg";
+dct:medium "LP";
+mo:release "2020";
+dct:dateSubmitted "2021-02-09 16:32:13" .
+<ttp://jidc.io/music/287> dct:identifier "26681075";
+a mo:Record;
+mo:artist "Lüpa Gang Gang Quartet";
+dct:title "Dopamine Overdose";
+dct:medium "LP";
+mo:release "2023";
+dct:dateSubmitted "2024-01-02 03:35:27" .
+<ttp://jidc.io/music/288> a mo:Record;
+dct:identifier "8520244";
+mo:artist "Whitney (8)";
+dct:title "Light Upon The Lake";
+dct:medium "LP, Album";
+mo:release "2016";
+dct:dateSubmitted "2021-02-09 15:57:01" .
+<ttp://jidc.io/music/289> a mo:Record;
+dct:identifier "14749141";
+mo:artist "Rumours (2)";
+mo:release "2020";
+dct:title "How Many Roses";
+dct:medium "12\", EP, Ltd";
+dct:dateSubmitted "2021-02-09 16:34:38" .
+<ttp://jidc.io/music/290> a mo:Record;
+dct:identifier "694990";
+mo:artist "J.J. Cale";
+dct:title "5";
+dct:medium "LP, Album";
+mo:release "1979";
+dct:dateSubmitted "2021-02-10 04:58:45" .
+<ttp://jidc.io/music/291> a mo:Record;
+dct:identifier "3891801";
+mo:artist "Title Fight";
+dct:title "Floral Green";
+dct:medium "LP, Album";
+mo:release "2012";
+dct:dateSubmitted "2023-10-27 07:42:37" .
+<ttp://jidc.io/music/292> a mo:Record;
+dct:identifier "1312119";
+mo:artist "Talking Heads";
+dct:title "Remain In Light";
+dct:medium "LP, Album, RE, 180";
+mo:release "2006";
+dct:dateSubmitted "2021-02-09 16:03:22" .
+<ttp://jidc.io/music/293> a mo:Record;
+dct:identifier "14739860";
+mo:artist "Eefje de Visser";
+dct:title "Bitterzoet";
+dct:medium "2xLP, Album + CD, Album";
+mo:release "2020";
+dct:dateSubmitted "2021-02-09 15:46:38" .
+<ttp://jidc.io/music/294> a mo:Record;
+dct:identifier "11212033";
+mo:artist "Arcade Fire";
+dct:title "Funeral";
+dct:medium "LP, Album, RE, 180";
+mo:release "2017";
+dct:dateSubmitted "2021-02-09 16:00:31" .
+<ttp://jidc.io/music/295> a mo:Record;
+dct:identifier "16324134";
+mo:artist "Nails";
+dct:title "Unsilent Death";
+dct:medium "LP, Album, RE, Ora";
+mo:release "2020";
+dct:dateSubmitted "2021-02-10 02:03:16" .
+<ttp://jidc.io/music/296> a mo:Record;
+dct:identifier "11649757";
+mo:artist "Descendents";
+dct:title "Milo Goes To College";
+dct:medium "LP, Album, RE";
+mo:release "0";
+dct:dateSubmitted "2021-02-10 02:11:36" .
+<ttp://jidc.io/music/297> a mo:Record;
+dct:identifier "904080";
+mo:artist "Eric Clapton";
+dct:title "Backtrackin'";
+dct:medium "2xLP, Album, Comp";
+mo:release "1984";
+dct:dateSubmitted "2021-02-10 05:08:19" .
+<ttp://jidc.io/music/298> a mo:Record;
+dct:identifier "25218010";
+mo:artist "Elder (2)";
+dct:title "Innate Passage";
+dct:medium "2xLP, Album, Dlx, Whi";
+mo:release "2022";
+dct:dateSubmitted "2024-10-19 09:57:39" .
+<ttp://jidc.io/music/299> a mo:Record;
+dct:identifier "10367725";
+mo:artist "Elder (2)";
+dct:title "Reflections Of A Floating World";
+dct:medium "2xLP, Album, Ltd, Sea";
+mo:release "2017";
+dct:dateSubmitted "2021-02-10 01:53:21" .
+<ttp://jidc.io/music/300> a mo:Record;
+dct:identifier "17251129";
+mo:artist "Madvillain";
+dct:title "Madvillainy";
+dct:medium "2xLP, Album, RE";
+mo:release "2021";
+dct:dateSubmitted "2022-02-17 09:56:08" .
+<ttp://jidc.io/music/301> a mo:Record;
+dct:identifier "16150872";
+mo:artist "Joe Hisaishi";
+dct:title "千と千尋の神隠し (イメージアルバム) = Spirited Away (Image Album)";
+dct:medium "LP, Album, Ltd, RE";
+mo:release "2020";
+dct:dateSubmitted "2024-01-02 03:31:32" .
+<ttp://jidc.io/music/302> a mo:Record;
+dct:identifier "12514142";
+mo:artist "Low";
+dct:title "Double Negative";
+dct:medium "LP, Album";
+mo:release "2018";
+dct:dateSubmitted "2025-06-08 07:53:14" .
+<ttp://jidc.io/music/303> a mo:Record;
+dct:identifier "8928363";
+mo:artist "Sunny Day Real Estate";
+dct:title "How It Feels To Be Something On";
+dct:medium "LP, Album, RE";
+mo:release "2016";
+dct:dateSubmitted "2021-02-27 11:12:47" .
+<ttp://jidc.io/music/304> a mo:Record;
+dct:identifier "15488048";
+mo:artist "Sunny Day Real Estate";
+dct:title "Diary";
+dct:medium "2xLP, Album, Ltd, RE, Gat";
+mo:release "2017";
+dct:dateSubmitted "2021-08-19 06:25:31" .
+<ttp://jidc.io/music/305> a mo:Record;
+dct:identifier "13390094";
+mo:artist "Iron And Wine";
+dct:title "Our Endless Numbered Days ";
+dct:medium "LP, Album, RE + LP + Dlx";
+mo:release "2019";
+dct:dateSubmitted "2021-02-09 15:58:53" .
+<ttp://jidc.io/music/306> a mo:Record;
+dct:identifier "20232430";
+mo:artist "Low";
+dct:title "Hey What";
+dct:medium "LP, Album, Ltd, Tra";
+mo:release "2021";
+dct:dateSubmitted "2022-01-04 03:53:16" .
+<ttp://jidc.io/music/307> dct:identifier "8887145";
+a mo:Record;
+mo:artist "Marvin Gaye";
+dct:title "What's Going On";
+dct:medium "LP, Album, RE";
+mo:release "0";
+dct:dateSubmitted "2021-07-12 02:30:17" .
+<ttp://jidc.io/music/308> a mo:Record;
+dct:identifier "13995414";
+mo:artist "Explosions In The Sky";
+dct:title "How Strange, Innocence";
+dct:medium "LP + LP, S/Sided, Etch + Album, RE, RM";
+mo:release "2019";
+dct:dateSubmitted "2021-02-10 04:06:30" .
+<ttp://jidc.io/music/309> a mo:Record;
+dct:identifier "14192807";
+mo:artist "Nosaj Thing";
+dct:title "Drift";
+dct:medium "LP, Album, RE, 10t";
+mo:release "2019";
+dct:dateSubmitted "2021-02-09 16:33:38" .
+<ttp://jidc.io/music/310> dct:title "The Devil And God Are Raging Inside Me";
+dct:medium "2xLP, Album, RE, 180";
+a mo:Record;
+dct:identifier "5053908";
+mo:artist "Brand New";
+mo:release "2013";
+dct:dateSubmitted "2021-02-09 17:01:32" .
+<ttp://jidc.io/music/311> a mo:Record;
+dct:identifier "7568442";
+mo:artist "Kendrick Lamar";
+dct:title "To Pimp A Butterfly";
+dct:medium "2xLP, Album, Gat";
+mo:release "2015";
+dct:dateSubmitted "2021-02-09 16:46:53" .
+<ttp://jidc.io/music/312> a mo:Record;
+dct:identifier "32104218";
+mo:artist "toe (5)";
+dct:title "For Long Tomorrow";
+dct:medium "LP, RE, Spi";
+mo:release "2024";
+dct:dateSubmitted "2024-12-12 01:50:38" .
+<ttp://jidc.io/music/313> a mo:Record;
+dct:identifier "5813623";
+mo:artist "Slint";
+dct:title "Spiderland";
+dct:medium "LP, Album, RE, RM, Gat + DVD-V, NTSC";
+mo:release "2014";
+dct:dateSubmitted "2021-02-10 02:09:26" .
+<ttp://jidc.io/music/314> a mo:Record;
+dct:identifier "10915305";
+mo:artist "Big Black";
+dct:title "Atomizer";
+dct:medium "LP, Album, RE";
+mo:release "0";
+dct:dateSubmitted "2021-02-10 03:55:23" .
+<ttp://jidc.io/music/315> a mo:Record;
+dct:identifier "27195534";
+mo:artist "Arlo Parks";
+dct:title "My Soft Machine";
+dct:medium "LP, Album";
+mo:release "2023";
+dct:dateSubmitted "2023-09-30 03:13:47" .
+<ttp://jidc.io/music/316> a mo:Record;
+dct:identifier "7144232";
+mo:artist "I Will, I Swear";
+dct:title "Strings Of Gold";
+dct:medium "10\", EP, mar";
+mo:release "2015";
+dct:dateSubmitted "2021-02-10 04:14:54" .
+<ttp://jidc.io/music/317> a mo:Record;
+dct:identifier "14970441";
+mo:artist "Dijf Sanders";
+dct:title "Puja";
+dct:medium "LP";
+mo:release "2020";
+dct:dateSubmitted "2021-02-09 16:35:48" .
+<ttp://jidc.io/music/318> a mo:Record;
+dct:identifier "16076337";
+mo:artist "Nordmann (3)";
+dct:title "In Velvet";
+dct:medium "LP, Album, Cle";
+mo:release "2020";
+dct:dateSubmitted "2021-02-09 16:26:55" .
+<ttp://jidc.io/music/319> a mo:Record;
+dct:identifier "22380601";
+mo:artist "Jan Verstraeten";
+dct:title "Violent Disco";
+dct:medium "LP, Album, Ltd, Red";
+mo:release "2022";
+dct:dateSubmitted "2022-04-09 09:21:18" .
+<ttp://jidc.io/music/320> a mo:Record;
+dct:identifier "9995781";
+mo:artist "Jef Neve";
+dct:title "Spirit Control";
+dct:medium "LP";
+mo:release "2017";
+dct:dateSubmitted "2021-02-09 16:51:59" .
+<ttp://jidc.io/music/321> a mo:Record;
+dct:identifier "29816695";
+mo:artist "Novastar (2)";
+dct:title "The Best Is Yet To Come";
+dct:medium "LP";
+mo:release "2024";
+dct:dateSubmitted "2024-02-24 05:13:14" .
+<ttp://jidc.io/music/322> a mo:Record;
+dct:identifier "5633118";
+mo:artist "Dire Straits";
+dct:title "Making Movies";
+dct:medium "LP, Album, Bla";
+mo:release "1980";
+dct:dateSubmitted "2021-02-10 04:21:05" .
+<ttp://jidc.io/music/323> a mo:Record;
+dct:identifier "4550164";
+mo:artist "Status Quo";
+dct:title "Live";
+dct:medium "2xLP, Album, RP, Gat";
+mo:release "0";
+dct:dateSubmitted "2021-02-10 05:01:51" .
+<ttp://jidc.io/music/324> dct:title "Vulture Prince";
+dct:medium "2xLP, Album, Dlx";
+a mo:Record;
+dct:identifier "23678393";
+mo:artist "Arooj Aftab";
+mo:release "2022";
+dct:dateSubmitted "2022-12-04 07:17:29" .
+<ttp://jidc.io/music/325> a mo:Record;
+dct:identifier "10505629";
+mo:artist "The Velvet Underground & Nico (3)";
+dct:title "The Velvet Underground & Nico";
+dct:medium "LP, Album, RE, 180";
+mo:release "2017";
+dct:dateSubmitted "2021-02-09 17:25:16" .
+<ttp://jidc.io/music/326> a mo:Record;
+dct:identifier "11572262";
+mo:artist "Stan Getz, João Gilberto Featuring Antonio Carlos Jobim";
+dct:title "Getz / Gilberto";
+dct:medium "LP, Album, RE, RM";
+mo:release "2014";
+dct:dateSubmitted "2021-02-09 16:30:22" .
+<ttp://jidc.io/music/327> a mo:Record;
+dct:identifier "12411076";
+mo:artist "A Day To Remember";
+dct:title "Homesick";
+dct:medium "LP, Album, Ltd, Pin";
+mo:release "2018";
+dct:dateSubmitted "2021-02-27 11:31:51" .
+<ttp://jidc.io/music/328> a mo:Record;
+dct:identifier "5383610";
+mo:artist "Comeback Kid";
+dct:title "Symptoms + Cures";
+dct:medium "LP, Album, Ltd";
+mo:release "2013";
+dct:dateSubmitted "2021-02-27 11:27:20" .
+<ttp://jidc.io/music/329> a mo:Record;
+dct:identifier "5666553";
+mo:artist "Comeback Kid";
+dct:title "Die Knowing";
+dct:medium "LP, Album";
+mo:release "2014";
+dct:dateSubmitted "2021-02-27 11:39:33" .
+<ttp://jidc.io/music/330> a mo:Record;
+dct:identifier "5077187";
+mo:artist "Massive Attack";
+dct:title "Mezzanine";
+dct:medium "2xLP, Album, RE, 180";
+mo:release "2013";
+dct:dateSubmitted "2021-02-09 16:34:05" .
+<ttp://jidc.io/music/331> a mo:Record;
+dct:identifier "14601248";
+mo:artist "Massive Attack";
+dct:title "Blue Lines";
+dct:medium "LP, Album, Club, RE, 180";
+mo:release "2019";
+dct:dateSubmitted "2022-04-09 09:22:40" .
+<ttp://jidc.io/music/332> a mo:Record;
+dct:identifier "12753734";
+mo:artist "BeraadGeslagen";
+dct:title "Duizeldorp";
+dct:medium "LP, Album";
+mo:release "2018";
+dct:dateSubmitted "2021-02-09 16:31:35" .
+<ttp://jidc.io/music/333> a mo:Record;
+dct:identifier "28738786";
+mo:artist "BeraadGeslagen";
+dct:title "Altijd Bewust Bewegen";
+dct:medium "LP, Album";
+mo:release "2023";
+dct:dateSubmitted "2025-01-03 09:27:00" .
+<ttp://jidc.io/music/334> a mo:Record;
+dct:identifier "14307097";
+mo:artist "Ottla";
+dct:title "Ottla";
+dct:medium "2xLP, Album, Ltd, Bro";
+mo:release "2019";
+dct:dateSubmitted "2021-02-09 16:30:58" .
+<ttp://jidc.io/music/335> a mo:Record;
+dct:identifier "10447016";
+mo:artist "Dave Brubeck";
+dct:title "Take Five";
+dct:medium "LP, Comp, RM";
+mo:release "2017";
+dct:dateSubmitted "2021-02-09 16:20:19" .
+<ttp://jidc.io/music/336> dct:medium "LP, Album, Tex";
+dct:title "Rumours";
+a mo:Record;
+dct:identifier "5747449";
+mo:artist "Fleetwood Mac";
+mo:release "1977";
+dct:dateSubmitted "2021-02-10 04:52:01" .
+<ttp://jidc.io/music/337> dct:identifier "3509662";
+a mo:Record;
+mo:artist "Eric Clapton";
+dct:title "Behind The Sun";
+dct:medium "LP, Album, Gat";
+mo:release "1985";
+dct:dateSubmitted "2021-02-10 05:08:43" .
+<ttp://jidc.io/music/338> a mo:Record;
+dct:identifier "12050720";
+mo:artist "Paul Simon";
+dct:title "Graceland";
+dct:medium "LP, Album, RP";
+mo:release "0";
+dct:dateSubmitted "2021-02-10 04:53:05" .
+<ttp://jidc.io/music/339> a mo:Record;
+dct:identifier "3979609";
+mo:artist "Aphex Twin";
+dct:title "...I Care Because You Do";
+dct:medium "2xLP, Album, RE, 180";
+mo:release "2012";
+dct:dateSubmitted "2022-11-18 04:22:14" .
+<ttp://jidc.io/music/340> a mo:Record;
+dct:identifier "3852834";
+mo:artist "Grizzly Bear";
+dct:title "Veckatimest";
+dct:medium "2xLP, Album, RE, 180";
+mo:release "2012";
+dct:dateSubmitted "2021-02-09 15:58:03" .
+<ttp://jidc.io/music/341> a mo:Record;
+dct:identifier "4617557";
+mo:artist "Mount Kimbie";
+dct:title "Cold Spring Fault Less Youth";
+dct:medium "2x12\", Album";
+mo:release "2013";
+dct:dateSubmitted "2021-02-09 16:45:33" .
+<ttp://jidc.io/music/342> a mo:Record;
+dct:identifier "18605692";
+mo:artist "Squid (29)";
+dct:title "Bright Green Field";
+dct:medium "2xLP, Album";
+mo:release "2021";
+dct:dateSubmitted "2021-07-12 02:28:03" .
+<ttp://jidc.io/music/343> a mo:Record;
+dct:identifier "22781351";
+mo:artist "Daniel Rossen";
+dct:title "You Belong There";
+dct:medium "LP, Album, Ltd, Gol";
+mo:release "2022";
+dct:dateSubmitted "2022-05-14 07:58:41" .
+<ttp://jidc.io/music/344> a mo:Record;
+dct:identifier "4492798";
+mo:artist "Frank Sinatra";
+dct:title "In The Wee Small Hours";
+dct:medium "LP, Album, Ltd, RE, RM, 180";
+mo:release "2012";
+dct:dateSubmitted "2021-02-09 16:19:33" .
+<ttp://jidc.io/music/345> a mo:Record;
+dct:identifier "12698907";
+mo:artist "Ryo Fukui";
+dct:title "Scenery";
+dct:medium "LP, Album, RE, Hal";
+mo:release "2018";
+dct:dateSubmitted "2023-12-18 02:36:28" .
+<ttp://jidc.io/music/346> a mo:Record;
+dct:identifier "2955775";
+mo:artist "The Pretenders";
+dct:title "Get Close";
+dct:medium "Cass, Album";
+mo:release "1986";
+dct:dateSubmitted "2021-02-10 05:00:19" .
+<ttp://jidc.io/music/347> a mo:Record;
+dct:identifier "4134092";
+mo:artist "Funkadelic";
+dct:title "Maggot Brain";
+dct:medium "LP, Album, RE";
+mo:release "2004";
+dct:dateSubmitted "2021-02-09 16:15:04" .
+<ttp://jidc.io/music/348> a mo:Record;
+dct:identifier "7631931";
+mo:artist "Buena Vista Social Club";
+dct:title "Buena Vista Social Club";
+dct:medium "2xLP, Album, RE, Gat";
+mo:release "2015";
+dct:dateSubmitted "2021-02-09 16:14:26" .
+<ttp://jidc.io/music/349> dct:identifier "28919746";
+a mo:Record;
+mo:artist "The Smile (5)";
+dct:title "Wall Of Eyes";
+dct:medium "LP, Album";
+mo:release "2024";
+dct:dateSubmitted "2024-08-29 01:45:41" .
+<ttp://jidc.io/music/350> a mo:Record;
+dct:identifier "8605874";
+mo:artist "Radiohead";
+dct:title "In Rainbows";
+dct:medium "LP, Album, RE, 180";
+mo:release "2016";
+dct:dateSubmitted "2021-02-10 04:02:18" .
+<ttp://jidc.io/music/351> dct:title "Kid A";
+dct:medium "2xLP, Album, RE";
+a mo:Record;
+dct:identifier "9097173";
+mo:artist "Radiohead";
+mo:release "2016";
+dct:dateSubmitted "2021-07-12 02:31:21" .
+<ttp://jidc.io/music/352> a mo:Record;
+dct:identifier "10833192";
+mo:artist "Vampire Weekend";
+dct:title "Vampire Weekend";
+dct:medium "LP, Album, RE";
+mo:release "2015";
+dct:dateSubmitted "2021-02-09 15:57:38" .
+<ttp://jidc.io/music/353> a mo:Record;
+dct:identifier "20493901";
+mo:artist "BadBadNotGood";
+dct:title "Talk Memory";
+dct:medium "2xLP, Album, Ltd, Whi";
+mo:release "2021";
+dct:dateSubmitted "2022-01-04 03:52:11" .
